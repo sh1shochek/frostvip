@@ -1,0 +1,1882 @@
+=== ALL SKINS ===
+
+=== MAG-7 ===
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100038814759724&size=420x420&format=png
+
+  [Vision7] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84172197270302&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=132037722316431&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=72840717580047&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=75226442736115&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=139337310790064&size=420x420&format=png
+
+=== AWP ===
+  [High Octane] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136112070369501&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=86234203698369&size=420x420&format=png
+
+  [Freedom] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=117608843718961&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=73733389712259&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=106381346822905&size=420x420&format=png
+
+  [Typhon] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136191452368563&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=95566096133138&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=84140891648917&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=118232013474655&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=86568294229211&size=420x420&format=png
+
+  [Overdrive] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103061547931238&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=82506619222217&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=81609849465581&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=111360160316010&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=117638462386036&size=420x420&format=png
+
+  [HexPop] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=72597284694810&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=93185531446911&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=119276175448349&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=93561470723418&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=104020977787640&size=420x420&format=png
+
+  [Metamorphosis] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=117963786318378&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=95646451142930&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=123405234794692&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=138027627800132&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=73950988509753&size=420x420&format=png
+
+  [Railgun] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=124999883032205&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=107588003997185&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=115275950284182&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=98772694459205&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=86636138040276&size=420x420&format=png
+
+  [Tekko] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122798764244612&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=115028720333665&size=420x420&format=png
+
+  [Bird Hunt] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=91355488643704&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=125186954392856&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=102982991617028&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=114076960172611&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=111661912891553&size=420x420&format=png
+
+  [Beta] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=124416502090313&size=420x420&format=png
+
+=== T Knife ===
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=108032424427684&size=420x420&format=png
+
+=== Flip Knife ===
+  [Scarlet] (Special)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=137104309039245&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=102888683179991&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=135381813993407&size=420x420&format=png
+
+  [Fade] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122890588562444&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=112596519104841&size=420x420&format=png
+
+  [Frostbite] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=138793965073702&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=126568950022486&size=420x420&format=png
+
+  [Damascus] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=75547079494434&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=86725270396064&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=73285976500790&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=94088018176414&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=126261131076909&size=420x420&format=png
+
+  [Woodland] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=79355399305691&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=80161303952838&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=76544835882304&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=74959802269742&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=101994273672262&size=420x420&format=png
+
+  [Aurora] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128576804864738&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=79319124728697&size=420x420&format=png
+
+  [Rusted] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=127398374106324&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=71108098127670&size=420x420&format=png
+
+  [Whiteout] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=125533978118469&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=104110701686144&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100530530016663&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=73284150926368&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=126746154840503&size=420x420&format=png
+
+  [Blackwidow] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111788837058048&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=105338097637698&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128004379054163&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=84033457393356&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=90665802210380&size=420x420&format=png
+
+  [Tiger Stripes] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122568248922963&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135070980886179&size=420x420&format=png
+
+  [Violet] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=110253575097439&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=98065111298473&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=126610766686810&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=112415919879397&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=114972131135727&size=420x420&format=png
+
+  [Vanilla] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115788195540060&size=420x420&format=png
+
+  [Safari] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=97682388773446&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=84860155441822&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=132078378685341&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=79478142737498&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91350376608406&size=420x420&format=png
+
+  [Midnight] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=96364895911319&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=130502279231270&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=127178911570045&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=89115439798348&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=104598834237965&size=420x420&format=png
+
+  [Doodle] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=86327515769889&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=134650565045475&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=137595044695908&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=127616118863872&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=116274040665785&size=420x420&format=png
+
+  [Naval] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=107121758345982&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=103472910166523&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=87953729154870&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=123843726240836&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=110674196104928&size=420x420&format=png
+
+  [Noir] (Special)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=120686231229241&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=98101830879919&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84089827338039&size=420x420&format=png
+
+=== Negev ===
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90582975712230&size=420x420&format=png
+
+  [Rotary Power] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=127898945501092&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=136245315280841&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=110961533274380&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=118037108071288&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=81378934197817&size=420x420&format=png
+
+  [Frostbloom] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=109875321300306&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=118166434831862&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=119810636506197&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=79056236840478&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91028239140144&size=420x420&format=png
+
+  [The Jungle] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111796127103879&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=101146302005018&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=116926469742465&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81145842346653&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136035854062959&size=420x420&format=png
+
+  [Noctiflora] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=83754236144122&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=105456889408074&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=107298336531349&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=104925543084118&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=103077166682904&size=420x420&format=png
+
+=== AUG ===
+  [Overgrowth] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=140091348241279&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=100502979896604&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=106441932200561&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=80761713149585&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=109669709505409&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90575765410470&size=420x420&format=png
+
+  [Tension] (Purple)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=117096012090290&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=86063272076422&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115462193206399&size=420x420&format=png
+
+  [Anodized Red] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84350880711844&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=116389505578130&size=420x420&format=png
+
+  [Hot Rod] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111356995885809&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=116389379371396&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128188412032585&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=107883163930398&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=103416146667591&size=420x420&format=png
+
+  [Predator] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=137513500264636&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=76215879523020&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100524860646364&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=112255667134651&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=123283402841455&size=420x420&format=png
+
+=== Skeleton Knife ===
+  [Woodland] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74055280257361&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=129685426509985&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=108469137939562&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=125185690213907&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=114120350008909&size=420x420&format=png
+
+  [Whiteout] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73687896541270&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=89010125774869&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=129663526159006&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=98688593177899&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=82892379831491&size=420x420&format=png
+
+  [Midnight] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122095354596020&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=132553426330703&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=77646431452548&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=112983044558826&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=138629526384877&size=420x420&format=png
+
+  [Fade] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=116910956316790&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=85508057045034&size=420x420&format=png
+
+  [Violet] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122826325708875&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=125552826791519&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=107943045387713&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=126773608973507&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=77315601525548&size=420x420&format=png
+
+  [Vanilla] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=87507678545290&size=420x420&format=png
+
+  [Scarlet] (Special)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=126895696393530&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=90773500985963&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=82177594283467&size=420x420&format=png
+
+  [Blackwidow] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122466107044644&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=129199506331603&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109591383190505&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=71318471655058&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=79346862463694&size=420x420&format=png
+
+  [Naval] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=117336493532955&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=100912545298103&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93735380268039&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=123080216996524&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=115801617547889&size=420x420&format=png
+
+  [Safari] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=88859869862052&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=82579210248005&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=96920173965598&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=127636649462249&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=80101793312832&size=420x420&format=png
+
+=== Nova ===
+  [Huntsman] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90684733872026&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=117967989961861&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=117286764253264&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=105265640156536&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=140688623192931&size=420x420&format=png
+
+  [Heat] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=113698208856050&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=101109410025843&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=78910665644254&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=134094708407955&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=105224023549298&size=420x420&format=png
+
+  [Flutter] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=126400338463515&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=101265015723062&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=134021654483903&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=90387375506276&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=89775251757091&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139999346390524&size=420x420&format=png
+
+  [Half+One] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=70430062045206&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=81783320598750&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=119648075585116&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=125692915260018&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=86594554942231&size=420x420&format=png
+
+  [Slime] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=132890619125059&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=82749635441567&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=75006838908999&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=88639075562223&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=99762539252385&size=420x420&format=png
+
+  [Arctic Stripe] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=102178151292739&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=80359082107134&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=90634865404851&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=84598983888872&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=86622638179301&size=420x420&format=png
+
+=== C4 ===
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80153066166501&size=420x420&format=png
+
+=== MAC-10 ===
+  [Nailgun] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=98375349370592&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=133023594978462&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=104772264527682&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=101366891224646&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=129925498640605&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=78958784545063&size=420x420&format=png
+
+  [Ivory] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=72375282773597&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=80387504624311&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=103869067525361&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=86512836115032&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=106786637646026&size=420x420&format=png
+
+  [Air Mail] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=107845484577298&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=75458508578598&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=116877901443809&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=80123879982448&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=81676165189002&size=420x420&format=png
+
+  [NGRAM] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=125861412921368&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=88027916767621&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=70489488579155&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=71874075935399&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=130777328475775&size=420x420&format=png
+
+  [Midas] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100609608112786&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=108564618877464&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=108346599787234&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=73732451124473&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=111601832126578&size=420x420&format=png
+
+  [Daisies] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=96061304037175&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=115558784331425&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=101854834697779&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=137666942177001&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=128947361648838&size=420x420&format=png
+
+=== Karambit ===
+  [Nebula_PATTERN_11] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=113777321139849&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=134505519317207&size=420x420&format=png
+
+  [Safari] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=93690634411905&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=86976214063280&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128348292185245&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=86455619211902&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=100162947115575&size=420x420&format=png
+
+  [Nebula_PATTERN_4] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=91949309565346&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94554623800029&size=420x420&format=png
+
+  [Nebula_PATTERN_9] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=79195431619542&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=107244254592331&size=420x420&format=png
+
+  [Fade] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74368007102644&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=107582404639204&size=420x420&format=png
+
+  [Nebula_PATTERN_7] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=88388537658352&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93362441063834&size=420x420&format=png
+
+  [Nebula_PATTERN_8] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74771996117666&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100050715443867&size=420x420&format=png
+
+  [Nebula_PATTERN_10] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=87948135729329&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=79465662283129&size=420x420&format=png
+
+  [Wemby] (Forbidden)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128370719098918&size=420x420&format=png
+
+  [Frostbite] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=79761341183165&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=137077273879965&size=420x420&format=png
+
+  [Nebula_PATTERN_5] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=123448364938448&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91900313137949&size=420x420&format=png
+
+  [Damascus] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=91543369886040&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=134316259469376&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=124437399787848&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=121783301683130&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=107670683830708&size=420x420&format=png
+
+  [Nebula_PATTERN_1] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=124379415982220&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=120416247576370&size=420x420&format=png
+
+  [Woodland] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=110826146970814&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=110415499151299&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139129992830604&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=70438789632828&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=140732556573714&size=420x420&format=png
+
+  [Aurora] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=138413413100500&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=97379865627615&size=420x420&format=png
+
+  [Rusted] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=82199230769656&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91586227122782&size=420x420&format=png
+
+  [Whiteout] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=114301226895128&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=127300007890809&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=83011594029553&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=123815470013680&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=93994343669599&size=420x420&format=png
+
+  [Blackwidow] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136778199973384&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=128621737206336&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93661873495388&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=119580247485266&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=128913675892777&size=420x420&format=png
+
+  [Tiger Stripes] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=95211024718206&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=112805576416747&size=420x420&format=png
+
+  [Scarlet] (Special)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=133081275699799&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=129531414275403&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=93160113970136&size=420x420&format=png
+
+  [Nebula_PATTERN_6] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115009585437927&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=75716390247691&size=420x420&format=png
+
+  [Noir] (Special)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91951730414537&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=101010579581291&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131209897519753&size=420x420&format=png
+
+  [Violet] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139129013572542&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=115243207001370&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=105467614919018&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=123195237061317&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=138208131548682&size=420x420&format=png
+
+  [Vanilla] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=102495712966985&size=420x420&format=png
+
+  [Nebula_PATTERN_3] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=71041546108325&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100216920448218&size=420x420&format=png
+
+  [Midnight] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84343241127839&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=93011547469445&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=125104443555635&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=118893582154888&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=103990182168005&size=420x420&format=png
+
+  [Doodle] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=120730938583742&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=123873955949832&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=124115284677430&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=120054524620451&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91092440190192&size=420x420&format=png
+
+  [Naval] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=76387784625729&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=85074545326338&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=76398721969321&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=136437845736510&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91021701025515&size=420x420&format=png
+
+  [Nebula_PATTERN_2] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=120880608401735&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135438554377924&size=420x420&format=png
+
+=== AK-47 ===
+  [PinPoint] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=78237429638206&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=131851553998351&size=420x420&format=png
+
+  [Sakura] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=118393450198241&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=134464474028073&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=115560805070835&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132101583168383&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=116216583772762&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122613466279170&size=420x420&format=png
+
+  [Aniki] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=83000635050744&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=89863139782362&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=125847705689599&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132653228926993&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=97698769186341&size=420x420&format=png
+
+  [Midas] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=126943923949394&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=102744102832847&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=92280875204952&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=124853079404019&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=132447760649321&size=420x420&format=png
+
+  [Rebellion] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=121791965444830&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=126919196003220&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93230984607560&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=125230003909641&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=96439997416328&size=420x420&format=png
+
+  [Luminex] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=91575659979849&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=132299891603639&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=97736565487557&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=76342992088277&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=71520819074429&size=420x420&format=png
+
+  [Red Baron] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=101540917675426&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=113431950286920&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128636117250630&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=120540462094917&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=87196344825665&size=420x420&format=png
+
+=== SSG 08 ===
+  [Desert Strike] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74118799794382&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=102046364341782&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=80844512365078&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=90658746355394&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=104406427561342&size=420x420&format=png
+
+  [Labyrinth] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103089015904236&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=104774626540023&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=136504167942960&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=83081551609144&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=125863200994892&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=138912757184897&size=420x420&format=png
+
+  [Mindspill] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=76518146707378&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=83750045296250&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=105508189750974&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=122679856627478&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=93381268640501&size=420x420&format=png
+
+  [Prototype] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=72746454181757&size=420x420&format=png
+
+  [GutterFreak] (Blue)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=83723943678145&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=113542484727151&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=114881337046934&size=420x420&format=png
+
+  [Racer8] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=72651128554373&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=73879863520133&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=116998204780659&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=124291715130923&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136366436551417&size=420x420&format=png
+
+  [Onyx] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=81009006872507&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=122729496542874&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=119829191167023&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=116645232595784&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=118486912166900&size=420x420&format=png
+
+=== FAMAS ===
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=102210032007604&size=420x420&format=png
+
+  [Medic] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=93020935624507&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=81100614716585&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=102105624872262&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=127674129672529&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=121609561369585&size=420x420&format=png
+
+  [Heirloom] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=81459830277649&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=90925121300228&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=79205785254014&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=126619533464194&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=125832373673728&size=420x420&format=png
+
+  [Arctic Camo] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90069607553613&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=124322214124931&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=90537829040020&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=92865906821105&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91099446700127&size=420x420&format=png
+
+  [Wallpaper] (Blue)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=121887888097892&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=95059150083208&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=120439847405332&size=420x420&format=png
+
+  [Mind] (Red)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=122153634825593&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=118731255706056&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73737345526334&size=420x420&format=png
+
+=== XM1014 ===
+  [BloxoBlasto] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=105065493393333&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=125409948724642&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=108304961569673&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=119699459382124&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=84741537445993&size=420x420&format=png
+
+  [Abstract] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=97869926504409&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=109296501013381&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=76389486852094&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=86328807953822&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=104007708386856&size=420x420&format=png
+
+  [Splatter] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136361774676153&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=129466342508861&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=86036147553166&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132089425088109&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=76283078162605&size=420x420&format=png
+
+  [Lilies] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=81875167939536&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=137768042027583&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=102513965137574&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=79912024493651&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136291104759374&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80234588113521&size=420x420&format=png
+
+  [Koi] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131064385117152&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=92272799480257&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=77343440873908&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=125444323258308&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=103198155775078&size=420x420&format=png
+
+  [Office] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=137653438110642&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=85022269039568&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=85631670866034&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=106078356569703&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136691921909609&size=420x420&format=png
+
+=== Butterfly Knife ===
+  [Nebula_PATTERN_11] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=140719190235202&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=72964942309658&size=420x420&format=png
+
+  [Safari] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=135033903539257&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=130663027328388&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=74259876540596&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=117072921617867&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=104910452813859&size=420x420&format=png
+
+  [Nebula_PATTERN_4] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=105118167424117&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=118717840597084&size=420x420&format=png
+
+  [Fade] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=106697835426931&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=129663034665038&size=420x420&format=png
+
+  [Nebula_PATTERN_8] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103095483479531&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=86464660002677&size=420x420&format=png
+
+  [Nebula_PATTERN_10] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=98118442417243&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=104137329822474&size=420x420&format=png
+
+  [Lebron James] (Forbidden)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=104452150002711&size=420x420&format=png
+
+  [Nebula_PATTERN_5] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=85585728374106&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=117875099903826&size=420x420&format=png
+
+  [Damascus] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=109109777074306&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=88219735080880&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100470832982059&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=76769632719349&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=106459216379992&size=420x420&format=png
+
+  [Nebula_PATTERN_1] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129916920602762&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=86359654614439&size=420x420&format=png
+
+  [Woodland] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=78162582750708&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=97368531878925&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=118492035832950&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=105169290337887&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=137472001096827&size=420x420&format=png
+
+  [Nebula_PATTERN_7] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129605814597939&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=118942066617980&size=420x420&format=png
+
+  [Tiger Stripes] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=82145293216243&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=77824871166797&size=420x420&format=png
+
+  [Whiteout] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139796292927038&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=117504942764969&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139434790383405&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=91304924263734&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=132355552807665&size=420x420&format=png
+
+  [Blackwidow] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=109975631075651&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=109712056835049&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=87984875191063&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=98656567124308&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=102105897971181&size=420x420&format=png
+
+  [Rusted] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=130942303823779&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=126586401733223&size=420x420&format=png
+
+  [Scarlet] (Special)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=136826921306441&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=76793554039996&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=125882948964404&size=420x420&format=png
+
+  [Nebula_PATTERN_6] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=81099521980392&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=97508272369611&size=420x420&format=png
+
+  [Nebula_PATTERN_9] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=116261339703847&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=136415413996013&size=420x420&format=png
+
+  [Violet] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=114857309297352&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=133323095448273&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=92394087250720&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=116544840244653&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=119272596527578&size=420x420&format=png
+
+  [Vanilla] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=78588429271427&size=420x420&format=png
+
+  [Nebula_PATTERN_3] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131473599834707&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128423955448608&size=420x420&format=png
+
+  [Midnight] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=82497240178553&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=80849544279369&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=130443533335945&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=105011435101107&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=75677167247355&size=420x420&format=png
+
+  [Doodle] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=102865152153231&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=132394814935233&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94952724613358&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=110138106158397&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=73621875780026&size=420x420&format=png
+
+  [Naval] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111900993940951&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=92568290781966&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=113092321315285&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=111947262965250&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=120354232468368&size=420x420&format=png
+
+  [Nebula_PATTERN_2] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131523329502512&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109346091444111&size=420x420&format=png
+
+=== P250 ===
+  [Glacial] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=116484949047326&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=106533345768337&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91934691371125&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=130575595456625&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=114357535564439&size=420x420&format=png
+
+  [B-250] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=85086661556319&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=73721462731764&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135634922303257&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=123675135585584&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=75267134242993&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119752198454013&size=420x420&format=png
+
+  [Mindspill] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=120468688778662&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=105092306142890&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=115823420438075&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=106743011680069&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=74274565187869&size=420x420&format=png
+
+  [Zen] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=126784518790646&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=108873252291124&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=134635892161467&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=98136779008431&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=90707347077700&size=420x420&format=png
+
+  [Pulse] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=108106875379899&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=82029252576480&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=113328874860546&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=131483597642682&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=121093242741002&size=420x420&format=png
+
+  [Frutiger Aero] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=77073254515432&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=125653653955183&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=130505316020914&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=121169238008086&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=109846665756826&size=420x420&format=png
+
+=== M9 Bayonet ===
+  [Nebula_PATTERN_11] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99140140642239&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=101351667197532&size=420x420&format=png
+
+  [Safari] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=85604205934442&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=87955503775671&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135587723490912&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=97224398166315&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=125319459153108&size=420x420&format=png
+
+  [Nebula_PATTERN_4] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=72166875595611&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91444920911413&size=420x420&format=png
+
+  [Fade] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80595388025959&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=114693164405074&size=420x420&format=png
+
+  [Nebula_PATTERN_8] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115901421915556&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=71703456831329&size=420x420&format=png
+
+  [Nebula_PATTERN_10] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84190445714753&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=125332279724840&size=420x420&format=png
+
+  [Nebula_PATTERN_5] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=126241087525595&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=71213365015571&size=420x420&format=png
+
+  [Damascus] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115080076019472&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=83337006255653&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=120163562980219&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=97412762636833&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=72742572905843&size=420x420&format=png
+
+  [Nebula_PATTERN_1] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=85574359172175&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=110893052977365&size=420x420&format=png
+
+  [Woodland] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=112899170359698&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=81720519666966&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=107052516609250&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=131860279345063&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=131456188416891&size=420x420&format=png
+
+  [Nebula_PATTERN_9] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119638363554450&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=129030090916147&size=420x420&format=png
+
+  [Tiger Stripes] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=70463036776846&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=106334458975159&size=420x420&format=png
+
+  [Whiteout] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=107157746622142&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=103018390585050&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135474010164500&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=93885588205230&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=99691635884813&size=420x420&format=png
+
+  [Blackwidow] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90806456943659&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=103292946704394&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135656337402088&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=140191612992515&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133817317497359&size=420x420&format=png
+
+  [Nebula_PATTERN_7] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=91523915439261&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135003290759593&size=420x420&format=png
+
+  [Rusted] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139932715629570&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139202389491593&size=420x420&format=png
+
+  [Nebula_PATTERN_6] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99280286016311&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=110932830439026&size=420x420&format=png
+
+  [Scarlet] (Special)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128936004628773&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=77463187967380&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73019270186108&size=420x420&format=png
+
+  [Violet] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129718786201649&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=95289677270302&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109569880770101&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=82188526213383&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=98230664735546&size=420x420&format=png
+
+  [Vanilla] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=124824778019343&size=420x420&format=png
+
+  [Nebula_PATTERN_3] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119934508751304&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=140066179647394&size=420x420&format=png
+
+  [Midnight] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=134444035831656&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=120658555568581&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=82612444811385&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=83771185767702&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=114038256581137&size=420x420&format=png
+
+  [Doodle] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=125715390726858&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=95268985588696&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=75124755103105&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=135619474914184&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=75392818847311&size=420x420&format=png
+
+  [Naval] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=95969897826010&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=85103057616080&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=84927290590059&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=131394773165257&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=99642033029727&size=420x420&format=png
+
+  [Nebula_PATTERN_2] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73597845491792&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=99614715945335&size=420x420&format=png
+
+=== Five-SeveN ===
+  [Mk II] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=93484299380499&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=105820131373560&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100284358399472&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=121954973007952&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91120009174711&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=81698670085410&size=420x420&format=png
+
+  [Control] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=134074624196032&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=88560553833936&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100325952262883&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81337313759387&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=98898828542047&size=420x420&format=png
+
+  [Icecap] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136238530759469&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=136978974433496&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=126315153890977&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81068980810629&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=129260697281641&size=420x420&format=png
+
+  [NoMercy] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111368902054761&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=77273262643476&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=92446911199361&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=127677513551735&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136230266990450&size=420x420&format=png
+
+  [X-Ray] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=117920971198120&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=85874133624007&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109289908733257&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=113146181865991&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=115799900868343&size=420x420&format=png
+
+=== R8 Revolver ===
+  [Warui] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=86336064116706&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=98085860486257&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=125392958967099&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=82629367438189&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=81177989789810&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=101594475858456&size=420x420&format=png
+
+  [Regalia] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100075723069709&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=134579030968334&size=420x420&format=png
+
+  [Bloody8] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=107191191045067&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=81352478658724&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=89702509070749&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=100371543681089&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=92331671430851&size=420x420&format=png
+
+=== Glock-18 ===
+  [Yurei] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=138428555108024&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=133026317441843&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=108646752984531&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=122708345942947&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=128232143990288&size=420x420&format=png
+
+  [Aurora] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119347012284483&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=85222134849580&size=420x420&format=png
+
+  [Broken Tv] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139806341142620&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=96362295199271&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=122198446568220&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=85260942426407&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=112954945614955&size=420x420&format=png
+
+  [PinPoint] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=120890001687679&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=95491114702798&size=420x420&format=png
+
+  [Midas] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=75696586761696&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=136413368496646&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=105524960417340&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=133053393136419&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=90745708667993&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103206109634679&size=420x420&format=png
+
+  [Fuji] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129437922121163&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=106036523384236&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=78360560908630&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=94995471139150&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=98537813409467&size=420x420&format=png
+
+  [Fade] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=102311740531470&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=99064000090704&size=420x420&format=png
+
+=== Stiletto Knife ===
+  [Woodland] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128823555948958&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=70549586481433&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=136575147066428&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=133903654695214&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=121378046981208&size=420x420&format=png
+
+  [Rusted] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122991082916872&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94084985825723&size=420x420&format=png
+
+  [Whiteout] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100757791260777&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=100097894728217&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=96270310979452&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=104246253762791&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133057052604333&size=420x420&format=png
+
+  [Midnight] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=70369357875598&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=74497815853469&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=95140918031262&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=99912069731269&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91772214668327&size=420x420&format=png
+
+  [Tiger Stripes] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73060066712564&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=76546028773659&size=420x420&format=png
+
+  [Fade] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=98305035734329&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94016370356821&size=420x420&format=png
+
+  [Naval] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111075581917461&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=105791671201607&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94564133457664&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=89854328720215&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=130794579168835&size=420x420&format=png
+
+  [Violet] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=87519753219275&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=83260383971636&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=96948008825577&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=91369271309214&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=116959823017790&size=420x420&format=png
+
+  [Vanilla] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99687107676025&size=420x420&format=png
+
+  [Safari] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128389123015241&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=129142522706240&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=97831964712953&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=108323551285910&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=84850443131596&size=420x420&format=png
+
+  [Scarlet] (Special)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=88231911115980&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=91233632509670&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=110954143502335&size=420x420&format=png
+
+  [Doodle] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80165507327550&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=123548023673798&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=130444038853569&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=87444365917446&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=78612721125879&size=420x420&format=png
+
+  [Damascus] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=127468787069985&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=91280621345567&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=103332543575963&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=106569144688235&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=116505835912754&size=420x420&format=png
+
+  [Blackwidow] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129449718166052&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=99580530879915&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=95264437168832&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=135040483338183&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=88837519842297&size=420x420&format=png
+
+=== Sawed-Off ===
+  [Orbit] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84785295584801&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=99175681523978&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=92342673668190&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=105662275438112&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136774669344300&size=420x420&format=png
+
+  [SuperSoaked] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=92355344149162&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=127374694884811&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131128504842218&size=420x420&format=png
+
+  [Improvised] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119038154277165&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=74851447961424&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91646742459385&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=84788662892568&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=99030289110477&size=420x420&format=png
+
+  [Panthera] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=118932565285228&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=123545593545187&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=73603751426295&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=130976686708391&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=122796258243535&size=420x420&format=png
+
+=== M4A4 ===
+  [The Ambassador] (Forbidden)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136463923704671&size=420x420&format=png
+
+  [Freedom] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=88254422876591&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=134734013130758&size=420x420&format=png
+
+  [Ignition] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=72363970187101&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=99022600209544&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100800905986513&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=121680045057505&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=107374349126851&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=88699722017830&size=420x420&format=png
+
+  [BubblePop] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=132505793750527&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=105410413647794&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=87397058264922&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=87857507160343&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=124798124936317&size=420x420&format=png
+
+  [Wrapped] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=125643348750553&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=108329449735109&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=92711443329942&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=116353277661632&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=78170193643599&size=420x420&format=png
+
+  [Tekko] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=135220557479517&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=118908830617287&size=420x420&format=png
+
+  [B-Hop] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=112285612049344&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=78053702394673&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=119159954350147&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=79650687303541&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=140490918470737&size=420x420&format=png
+
+=== CT Knife ===
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=96868141739315&size=420x420&format=png
+
+  [Lebron James] (Forbidden)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136143653775256&size=420x420&format=png
+
+=== P90 ===
+  [DRFT] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129912585396630&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=72050695627666&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=134869061828170&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=133316210072251&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133890255888433&size=420x420&format=png
+
+  [Synthwave] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=137570525227698&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=103558834933647&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=121488451811962&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=122608053210835&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=121935128598074&size=420x420&format=png
+
+  [Big Cat] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=91697533492652&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=125316214728141&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=71298489261330&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=96886226193408&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=97901954926672&size=420x420&format=png
+
+  [Visions] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=86651670301138&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=93899332128067&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=137447513303146&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=82486471561377&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=97404786714584&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=137591842393094&size=420x420&format=png
+
+  [Chromatic] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=97233491835732&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=84737867763789&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=84298518350797&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=94454564058233&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=135934967513517&size=420x420&format=png
+
+  [PinPoint] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=105293566332593&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=96816592291896&size=420x420&format=png
+
+  [Database] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119190324464014&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=137760782169040&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=83691775459113&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=127659649553635&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=116543752900213&size=420x420&format=png
+
+=== Zeus x27 ===
+  [Overcharge] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74777043312975&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=137754851638548&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=118752440825544&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=111170735931364&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=104064999281881&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=132815946459334&size=420x420&format=png
+
+  [MedScan] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111727646284933&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=88923804816877&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94412790987867&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=80933956253598&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=98369482169630&size=420x420&format=png
+
+  [BitFyre] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99110361398481&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=79928845459144&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=87467173467720&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=91679548419019&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=80425294072601&size=420x420&format=png
+
+=== Gut Knife ===
+  [Nebula_PATTERN_11] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80823055057009&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=113856847405860&size=420x420&format=png
+
+  [Safari] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122026707214371&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=122333292502851&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=102562341110999&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=134295198884412&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=113222693453271&size=420x420&format=png
+
+  [Nebula_PATTERN_4] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136317618114314&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94510511045825&size=420x420&format=png
+
+  [Fade] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=95275570528896&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=133326298117753&size=420x420&format=png
+
+  [Nebula_PATTERN_9] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=102840987018751&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100184713428497&size=420x420&format=png
+
+  [Nebula_PATTERN_8] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=82387568881878&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93415581684431&size=420x420&format=png
+
+  [Nebula_PATTERN_10] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80426228752253&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109747679356856&size=420x420&format=png
+
+  [Nebula_PATTERN_7] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=126085819529356&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=140625979872530&size=420x420&format=png
+
+  [Frostbite] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=104711840445578&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=134177111283062&size=420x420&format=png
+
+  [Nebula_PATTERN_5] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122581154556280&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94552561558227&size=420x420&format=png
+
+  [Damascus] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=101745563237771&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=139722063201723&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=127594153259353&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=125874585968338&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=125330040972409&size=420x420&format=png
+
+  [Nebula_PATTERN_1] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=117577160933778&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93601960877863&size=420x420&format=png
+
+  [Woodland] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=79124912599935&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=107032009550569&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=76528885735107&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=74970147411435&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=126003229628787&size=420x420&format=png
+
+  [Aurora] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=121640032706759&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=107666164016005&size=420x420&format=png
+
+  [Rusted] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=85270959203020&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=114853250685608&size=420x420&format=png
+
+  [Whiteout] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=72559787453342&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=102749415917725&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=96022549197857&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81719110991951&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=84037921431353&size=420x420&format=png
+
+  [Blackwidow] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136907689255627&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=71756208221771&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=90341866873535&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=126782187314660&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=96441088723924&size=420x420&format=png
+
+  [Tiger Stripes] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84654052342165&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100365746090603&size=420x420&format=png
+
+  [Scarlet] (Special)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=132295324456677&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=133547814662522&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=106791821145854&size=420x420&format=png
+
+  [Nebula_PATTERN_6] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=126756541020217&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=83989920473735&size=420x420&format=png
+
+  [Noir] (Special)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=132618846799763&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=128534843771134&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=98358735156670&size=420x420&format=png
+
+  [Violet] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=127558628138118&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=87512025572545&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=74176188728808&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=122671687202033&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=124950337984046&size=420x420&format=png
+
+  [Vanilla] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74506801768392&size=420x420&format=png
+
+  [Nebula_PATTERN_3] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73286997483792&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=98525090029381&size=420x420&format=png
+
+  [Midnight] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131381753965014&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=111075475283961&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=134810383662412&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=126593957970513&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=135009226023867&size=420x420&format=png
+
+  [Doodle] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122235395836024&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=70636039357183&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=106799296369542&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=130896889553062&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=73674003112040&size=420x420&format=png
+
+  [Naval] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=140460587804154&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=117137954807112&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=115845550734165&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=76197348949165&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=110122893278193&size=420x420&format=png
+
+  [Nebula_PATTERN_2] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=135259810470359&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135932437301423&size=420x420&format=png
+
+=== USP-S ===
+  [Tekko] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136544769697340&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=138074315482167&size=420x420&format=png
+
+  [SuperSoaked] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111928584115671&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=138845301746137&size=420x420&format=png
+
+  [SpecOps] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=118258124480427&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=99126210395200&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=86525856219979&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=82803632757426&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136278586149188&size=420x420&format=png
+
+  [Wintergreen] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=71945038229944&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=121481167971649&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93963016705395&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=102634164273385&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=84222570196624&size=420x420&format=png
+
+  [Tora] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99558048450030&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=84342294945033&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=133128597454281&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=140688301889599&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=117793446646202&size=420x420&format=png
+
+  [Heated] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=109389222580238&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=105022155938590&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=117086309169738&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=135157890709336&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=112636943972467&size=420x420&format=png
+
+  [Ajax] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128789343995926&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=124275331165135&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=107002902153560&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81523925396917&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=137454941064436&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=108831167850928&size=420x420&format=png
+
+=== M4A1-S ===
+  [Orchids] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=118636080343193&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=123352139863880&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=124399520668518&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=101908202208324&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136978917861419&size=420x420&format=png
+
+  [SuperSoaked] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=108863433712503&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=113224713127008&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=112569776588537&size=420x420&format=png
+
+  [Phaseprint] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=76878278285757&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=94405143092333&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=81354701638449&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=96927126936565&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=100634075448678&size=420x420&format=png
+
+  [Retro] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=127638017774749&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=118224955788076&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=113765676325681&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=136099865499385&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=128317294935696&size=420x420&format=png
+
+  [Castroil] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=106466951136790&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=85133098581223&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=105690029227610&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=90769638564859&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=125824818740013&size=420x420&format=png
+
+  [Anodized Red] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=87908365282079&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=96089119972118&size=420x420&format=png
+
+  [BlackOps] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=95735308676498&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=123119940648917&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=102693282630648&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=97621691736529&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=117373411393406&size=420x420&format=png
+
+=== SG 553 ===
+  [Dynasty] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=104894297920788&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=108923687917400&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=129084290639760&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=120010731806979&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=118141387632013&size=420x420&format=png
+
+  [Frostline] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=107041781535861&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=130523609175210&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109517405927390&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=72831815254774&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=100078117439394&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=121020346295718&size=420x420&format=png
+
+  [Cryo] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90539545081878&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=95798611593346&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139801117308113&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=73239092594995&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91583107391265&size=420x420&format=png
+
+=== Tec-9 ===
+  [Striker] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136793807710225&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=98308610513171&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=124386520564426&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132102417846766&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=138189925187552&size=420x420&format=png
+
+  [Trajectory] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139338962898457&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=114582717346037&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=125427126209689&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=77146323489565&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=101590299725260&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103535879159128&size=420x420&format=png
+
+  [Monarch] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=138177756309876&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=82079636896138&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=86362121698704&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=114791867876111&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=114090738979346&size=420x420&format=png
+
+  [Vice] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=93271507640385&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=97172046192341&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=82200131424180&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=120475438477497&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=131947608590837&size=420x420&format=png
+
+  [Timeless] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84194710883435&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=99497193742382&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=122666487751735&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=76204182471714&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=113163553905319&size=420x420&format=png
+
+  [Medal.tv] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129652986787950&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=112228540204567&size=420x420&format=png
+
+=== MP9 ===
+  [High Octane] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99133552349769&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=111622713230305&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80128845111227&size=420x420&format=png
+
+  [Anodized Red] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100809950300989&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94837896185235&size=420x420&format=png
+
+  [Canyon] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99598867872286&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=124241254951498&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=85795009276906&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=113506652566266&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=83519002143670&size=420x420&format=png
+
+  [Patina] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=123681460113782&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=134396101160464&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=119314653875293&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=107689724437182&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133972538887947&size=420x420&format=png
+
+  [Graffiti] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115242436485830&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=83647205493307&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93431762733116&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=128049649185939&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=126621829587889&size=420x420&format=png
+
+  [Classified] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=75959435584717&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=117903988950147&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=131279075762144&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=73654671618251&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133391862829107&size=420x420&format=png
+
+  [Paranoia] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=97054421713962&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=140338085368413&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=80871885341987&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=83422068792266&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=124443221193377&size=420x420&format=png
+
+  [X-Ray] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128454411389675&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=139134147658636&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=108333685497623&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=129481388435149&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=75971174614785&size=420x420&format=png
+
+  [Choke Oil] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=112442261177271&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=97108345898433&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139888911123048&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=119139709677641&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=116390996480596&size=420x420&format=png
+
+=== Dual Berettas ===
+  [Overclock] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122112952414992&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=81480562221054&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=133971755876765&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=139964963389346&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=94933272447696&size=420x420&format=png
+
+  [Gilded] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128596252710922&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=95119674897724&size=420x420&format=png
+
+  [Tension] (Purple)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=81543186662660&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=74272215125949&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=114332654530188&size=420x420&format=png
+
+  [Vernal] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74510397280714&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=79517035042621&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=105123881240303&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=99057274874647&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=130136154162223&size=420x420&format=png
+
+  [Choking Hazard] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=107389695920030&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=80249269723835&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91373892242900&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=73524449828881&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=112493780976254&size=420x420&format=png
+
+  [Inked] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100406553018004&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=122078769361457&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=111458861931317&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132687844595809&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=138689111509001&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103853751877652&size=420x420&format=png
+
+=== Desert Eagle ===
+  [High Octane] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=94846790071504&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109430682573587&size=420x420&format=png
+
+  [Freedom] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139648329385254&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=75865027655979&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139948369384565&size=420x420&format=png
+
+  [Mercy] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=88607588222034&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=82085794311504&size=420x420&format=png
+
+  [Permafrost] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119477576365240&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=110945270822773&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=127658620324046&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=135735278292989&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=124563295517019&size=420x420&format=png
+
+  [Velocity] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99871777586907&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=134706482766517&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=71063463221491&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=88778841737454&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=117627331111885&size=420x420&format=png
+
+  [Spectrum] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115909642433750&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=96849569081512&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=140091721216574&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=89050941219619&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=87487715157612&size=420x420&format=png
+
+  [Circuit] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=96711237869835&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=107108522825976&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=136731376581778&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=113294448277578&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=121788502114090&size=420x420&format=png
+
+  [Turbo] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=138525436277720&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=91131000380274&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=73020685917748&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=124939752545879&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=130855910111012&size=420x420&format=png
+
+  [Racer8] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=116218659152633&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=88030511682696&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139034892559167&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132398205108563&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91459374335862&size=420x420&format=png
+
+  [Paranoia] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80741450678165&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=119329567910246&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=120560613795487&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=102567392108763&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=111417601166654&size=420x420&format=png
+
+  [Punk] (Purple)
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=121194958924217&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=105572748103777&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=98374593739664&size=420x420&format=png
+
+=== Galil AR ===
+  [Limewire] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=77282765150348&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=140399130182453&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=137021187123588&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=74848256576067&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=113084065124161&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131473149747361&size=420x420&format=png
+
+  [Feral] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100237896129409&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=81855067763163&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=87533300505401&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=89048179881169&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=87350327240481&size=420x420&format=png
+
+  [Irid] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131127067601241&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=129765142102559&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=116327473952558&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81537317471176&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=86190289293759&size=420x420&format=png
+
+  [Monochrome] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=130738743524733&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=109784567752705&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=137835392773470&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=108975286426149&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=130461083837791&size=420x420&format=png
+
+  [Irradiated] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=106417126259183&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=127678180922639&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=120196999428592&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=77636013813387&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=81028720270846&size=420x420&format=png
