@@ -2,14 +2,14 @@
 
 === MAG-7 ===
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-6aa03b131102b1a60a48ae16ef5c6604/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100038814759724&size=420x420&format=png
 
   [Vision7] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-7229029a8fb3f95345b8c69362f5b980/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-d37034ee423051641d30a909b77c21e6/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-d527afe1f78b3e210a2876a4aafc0346/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-74a1697e832eabedc64f0b927f7b6f9e/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-3c47bf98da768f90b6319f8d1b0b9701/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84172197270302&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=132037722316431&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=72840717580047&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=75226442736115&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=139337310790064&size=420x420&format=png
 
 === AWP ===
   [High Octane] (Red)
@@ -74,7 +74,7 @@
 
 === T Knife ===
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-6285e7bb4b8e19ed1e35d11536b81d71/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=108032424427684&size=420x420&format=png
 
 === Flip Knife ===
   [Scarlet] (Special)
@@ -83,11 +83,11 @@
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=135381813993407&size=420x420&format=png
 
   [Fade] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-024303447004ef187a9bd656eba60a2d/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-0f83c39954aa6a0bf2611e4a4efcf212/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122890588562444&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=112596519104841&size=420x420&format=png
 
   [Frostbite] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-65cc4cd8d659d0d3b7af9a8b70cfefd9/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=138793965073702&size=420x420&format=png
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=126568950022486&size=420x420&format=png
 
   [Damascus] (Special)
@@ -127,8 +127,8 @@
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=90665802210380&size=420x420&format=png
 
   [Tiger Stripes] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-03c3ef28b72bd9da1929b80f10fe0314/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-a5d96ba7943c5772fda8e9b6e45a1173/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122568248922963&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135070980886179&size=420x420&format=png
 
   [Violet] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=110253575097439&size=420x420&format=png
@@ -141,11 +141,11 @@
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115788195540060&size=420x420&format=png
 
   [Safari] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-233261d285055c484696c138caaea469/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-9c3a2bc792945b4c5ab9473ea7b1f2d3/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-60f63c9e0c7d4043dd1c597d5226c5d4/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-e322c77d9415077698ff59df8cc1e9ac/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-89fac8ff608ca4a92b9efd5a11734ecd/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=97682388773446&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=84860155441822&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=132078378685341&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=79478142737498&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91350376608406&size=420x420&format=png
 
   [Midnight] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=96364895911319&size=420x420&format=png
@@ -163,10 +163,10 @@
 
   [Naval] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=107121758345982&size=420x420&format=png
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-0ee4899b63f24fa2027a8d75e027909d/420/420/Image/Png/noFilter
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=103472910166523&size=420x420&format=png
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=87953729154870&size=420x420&format=png
     Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=123843726240836&size=420x420&format=png
-    Well-Worn: https://tr.rbxcdn.com/180DAY-3e39fb2e56d63b75749236d3861b3602/420/420/Image/Png/noFilter
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=110674196104928&size=420x420&format=png
 
   [Noir] (Special)
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=120686231229241&size=420x420&format=png
@@ -193,7 +193,7 @@
 
   [The Jungle] (Blue)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111796127103879&size=420x420&format=png
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-d626eb6c3bb662fa9fc0baf65d87196d/420/420/Image/Png/noFilter
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=101146302005018&size=420x420&format=png
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=116926469742465&size=420x420&format=png
     Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81145842346653&size=420x420&format=png
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136035854062959&size=420x420&format=png
@@ -207,52 +207,52 @@
 
 === AUG ===
   [Overgrowth] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-4ef37d7bc5b158a1bc41e4f82d684db9/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-8fb01c708191171eb8996e6d2329fe09/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-6e135ab990459516757f0a41445aa278/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-5d0f93dad567290a22f086e595aaab7b/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-4b43368732e0b73ee81083d0a6261935/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=140091348241279&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=100502979896604&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=106441932200561&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=80761713149585&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=109669709505409&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-72329a659dab6c81dfa4a4b868bc3bb6/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90575765410470&size=420x420&format=png
 
   [Tension] (Purple)
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-91038ac421b4020ac299940a35bcb0d1/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-46c227650991c6bffb5ea28aee98899e/420/420/Image/Png/noFilter
-    Factory New: https://tr.rbxcdn.com/180DAY-f7c63351b96ca579ae44010c7530ee5f/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=117096012090290&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=86063272076422&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115462193206399&size=420x420&format=png
 
   [Anodized Red] (Red)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84350880711844&size=420x420&format=png
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=116389505578130&size=420x420&format=png
 
   [Hot Rod] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-1fe911d0701b1d2d3efd193274de2e59/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-f6e3475b329b90ffec31e4111ff1cd27/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-70562f60204905d076e6503b3a5931bf/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-b493d081251baa0e3a0892abc53026c6/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-99401d6b8cc0429659024306a678ad04/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111356995885809&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=116389379371396&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128188412032585&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=107883163930398&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=103416146667591&size=420x420&format=png
 
   [Predator] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-a318bb5ddd297e32448a18f18fc5afe7/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=137513500264636&size=420x420&format=png
     Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=76215879523020&size=420x420&format=png
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-e7e0b548ac5302ab8903181fd07635ff/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-672aba50c617943023a55c5254ccb963/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100524860646364&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=112255667134651&size=420x420&format=png
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=123283402841455&size=420x420&format=png
 
 === Skeleton Knife ===
   [Woodland] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-b20a645e6c8ef851b4acc5b924afa849/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-c517404923c7a238879faaa5af8b0df9/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-72298c61ab463e7a506c508caac26ae5/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-9fe831a35c7b367f7b6b380714d22b80/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-2e73be43967cdbf0a4ff4ba81fc08bc1/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74055280257361&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=129685426509985&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=108469137939562&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=125185690213907&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=114120350008909&size=420x420&format=png
 
   [Whiteout] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-966a5461f8ad0702f03b10b354eebeec/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-0396705f30ce526a57b56dab458e41f4/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-1019c027d13b6fd50c310415b89cbfef/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-2d0df3f81c0ac0ba713f3ccacadf479b/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-9df5bfc62a16035e662f5574e6179fd9/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73687896541270&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=89010125774869&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=129663526159006&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=98688593177899&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=82892379831491&size=420x420&format=png
 
   [Midnight] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122095354596020&size=420x420&format=png
@@ -303,49 +303,49 @@
 
 === Nova ===
   [Huntsman] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-360081ed33a6ab9912c21b0f305aaa56/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-c55c7f63bd4c55e6418e893cf10d5e53/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-f6ad924610fe52d782e8a1097329d4e3/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-a458e6507ac6410e8403505b18580ff0/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-45e80fc45af960d8e8df369b0bdf85cd/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90684733872026&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=117967989961861&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=117286764253264&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=105265640156536&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=140688623192931&size=420x420&format=png
 
   [Heat] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-d37542280dbfd9a3d0d46af7a568fc3a/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-f26c0e3417066fe1c6860f359f93d37d/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-ab5bbed87d397c5f0f016043c56cf59e/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-1743d7f720426d15c452b28d6d6083fe/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-895155ed3b13e9f719625e868420c25b/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=113698208856050&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=101109410025843&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=78910665644254&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=134094708407955&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=105224023549298&size=420x420&format=png
 
   [Flutter] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-fd1f9483e2024ebeade5257f6532e5b2/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-3bc1a2b37b013d733123ef4ff779095e/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-38f72828b6ec9cdbd4d26f851faca231/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-b6f5e5224e7c1f341b5dd024f75468a0/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-c97b892494339385f0752a25bd482c87/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=126400338463515&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=101265015723062&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=134021654483903&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=90387375506276&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=89775251757091&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-d2187715052335eb93c44ad4cc80feef/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139999346390524&size=420x420&format=png
 
   [Half+One] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-5525b1489cdb9df84c51636c6b2eaa05/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-c4a5e0d0ec85fcace4ce13257f7c9f39/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-20c182ec6a24ab5f8198894e81fca50a/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-0e7d5b7293f3727f9c5ab12f27496cf0/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-f8d4f64fccbcc93b09c405e1299b4e0d/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=70430062045206&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=81783320598750&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=119648075585116&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=125692915260018&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=86594554942231&size=420x420&format=png
 
   [Slime] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-a8d26ebbcfa60b92efbd753adab79544/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-405cfa96b572a8994202766e52649fb5/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-47d2fdcc363cc46f8d6ca7638a6dcb23/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-ecd3bcb611247fb7fd19f27c83f621ee/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-e8853c10da83d27defdcf1ed25ea3df5/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=132890619125059&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=82749635441567&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=75006838908999&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=88639075562223&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=99762539252385&size=420x420&format=png
 
   [Arctic Stripe] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-f56f607b61df74daf29f4801abbe2e28/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-f94613561db988d6787973aa423d8841/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-03199866c4b5e55bc41aee3cd7bc4f4c/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-b20aee2ce223dc649417eaf6f478767a/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-a815722822adfab8db0037e153761e08/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=102178151292739&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=80359082107134&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=90634865404851&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=84598983888872&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=86622638179301&size=420x420&format=png
 
 === C4 ===
   [Stock] (Stock)
@@ -353,65 +353,65 @@
 
 === MAC-10 ===
   [Nailgun] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-50a1f5b96e5bb3dd394710d5b1d46113/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-8885953df23db18a9df7e565fb17ae74/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-0ddbec1323e938163a40c7cad164dc8b/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-078a4b6c27dadb56bedd70f8871bb33a/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-f922ffcc628cbe62442c2edce790e741/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=98375349370592&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=133023594978462&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=104772264527682&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=101366891224646&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=129925498640605&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-c48ec2cd92098b0d32c6aa5ae62baa52/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=78958784545063&size=420x420&format=png
 
   [Ivory] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-434a936fe98f5681c61b078d7579786e/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-93815e590c267091d725c42d03e3b2ed/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-486d7685d4087160b0d1d0adec881b8a/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-e78971d74c2245963c98da67b9a6eb44/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-871f31f67eb032478b30bcf053b77b06/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=72375282773597&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=80387504624311&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=103869067525361&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=86512836115032&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=106786637646026&size=420x420&format=png
 
   [Air Mail] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-d2edf84f40ba5a33a228615f0f9c5aa9/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-baf764cc8d6ba009b4d4a4158af04d3c/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-c8c2392e2390db0bf3d0e8df06de6b8f/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-062cf1923763da1546c0d2b6843d3232/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-6969287f555b0ad4ad33165ce6ab2e51/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=107845484577298&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=75458508578598&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=116877901443809&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=80123879982448&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=81676165189002&size=420x420&format=png
 
   [NGRAM] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-b9710f137d866e8863668ef4ba1b66f1/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-3a565db848d663812e1ce988e68b3b59/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-ebbc6332a2a5e68ce2bc1b0fa064a8a0/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-8ff7fd4f19e80f9229ef86c362742f61/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-71bec14a22090293e67568d69fe98170/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=125861412921368&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=88027916767621&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=70489488579155&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=71874075935399&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=130777328475775&size=420x420&format=png
 
   [Midas] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-c2474f403c625b29c7dc339211c9b30d/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-7a02d9ec3b8c86508916be4132ab480a/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-ef4e18f389a7aebc0336be866025022f/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-6d3bd16910c6d39e73d89e3ad6844927/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-0586bf6d1409f23b9f998c780e1682ae/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100609608112786&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=108564618877464&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=108346599787234&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=73732451124473&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=111601832126578&size=420x420&format=png
 
   [Daisies] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-de6984498b7a3aaa5d9d44a0691109aa/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-1545ed044aa9da8d38e7daf4afc4b95b/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-5f668cf775c24ab04ca8520b12d638c4/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-df54936ce4b06182cfd51739468103b5/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-31fb9d7f3ce778a8f61d043e23d9634c/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=96061304037175&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=115558784331425&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=101854834697779&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=137666942177001&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=128947361648838&size=420x420&format=png
 
 === Karambit ===
   [Nebula_PATTERN_11] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-82f3e9350b2cb74c00aec5c9ea2488ce/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-607933b6b5ff6374ff7ee73bc5af2b49/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=113777321139849&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=134505519317207&size=420x420&format=png
 
   [Safari] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-3735eaa56f40741d710f7fbb04eef73a/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-a9eb677603e104036459aa6d719f98e1/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-4dd54dac5c271ffd57c3e4855dfdd383/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-9bb10bceeaa5b9edfabcf96ced3ad617/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-2838091c017dc09b9132a17afe3747f4/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=93690634411905&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=86976214063280&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128348292185245&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=86455619211902&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=100162947115575&size=420x420&format=png
 
   [Nebula_PATTERN_4] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-6ec5639a3fa138f21a62be251fc9fe22/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-27d474ed1c0122f28e704c9837a7708b/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=91949309565346&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94554623800029&size=420x420&format=png
 
   [Nebula_PATTERN_9] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=79195431619542&size=420x420&format=png
@@ -422,8 +422,8 @@
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=107582404639204&size=420x420&format=png
 
   [Nebula_PATTERN_7] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-505615d7e2e469f7a181863f487dc161/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-7af63582c62f1a146793847db841afb4/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=88388537658352&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93362441063834&size=420x420&format=png
 
   [Nebula_PATTERN_8] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74771996117666&size=420x420&format=png
@@ -434,7 +434,7 @@
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=79465662283129&size=420x420&format=png
 
   [Wemby] (Forbidden)
-    Factory New: https://tr.rbxcdn.com/180DAY-6d8fa11aba7c2018615128e5c7d39ca7/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128370719098918&size=420x420&format=png
 
   [Frostbite] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=79761341183165&size=420x420&format=png
@@ -485,43 +485,43 @@
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=128913675892777&size=420x420&format=png
 
   [Tiger Stripes] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-1465cc3fc90acb0a3971018b790bc615/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-a16202c5a50124cd82771414474ec763/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=95211024718206&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=112805576416747&size=420x420&format=png
 
   [Scarlet] (Special)
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-bb8da54ed890eadfdafe41b1daca3e30/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-1cff05a3f887a6057af1b8dab70b6596/420/420/Image/Png/noFilter
-    Factory New: https://tr.rbxcdn.com/180DAY-34d46e5358bd55dc0c0c9d0ffc8d6d9a/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=133081275699799&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=129531414275403&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=93160113970136&size=420x420&format=png
 
   [Nebula_PATTERN_6] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-b444a75a7169e53b417c05ab47792111/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-a0287259b73a669e96e9fd394e7684ba/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115009585437927&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=75716390247691&size=420x420&format=png
 
   [Noir] (Special)
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-2a70479e760eca29942ccaea117e2065/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-d35d58b7be04326acdab949a37d0c1ca/420/420/Image/Png/noFilter
-    Factory New: https://tr.rbxcdn.com/180DAY-99d605a6c835d79b7b62d7f815bfe5ac/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91951730414537&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=101010579581291&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131209897519753&size=420x420&format=png
 
   [Violet] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-ab16971fdcadcb72508c0f7759775486/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-8025d78be02d05df19ac7d1ec10556e1/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-58abf37f3b40801ea5cd9cf06ceced61/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-1817a40225ae7a6748f5feca4cf0bf22/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-080a21f2134942a4495b3c2d5bef8d23/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139129013572542&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=115243207001370&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=105467614919018&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=123195237061317&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=138208131548682&size=420x420&format=png
 
   [Vanilla] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-90b91e670e6d107abf22f70bb2bbbeef/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=102495712966985&size=420x420&format=png
 
   [Nebula_PATTERN_3] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-12c18fed88e7d88350706f4289546f1f/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-5393cd8000e939927eb058f0ec6c9179/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=71041546108325&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100216920448218&size=420x420&format=png
 
   [Midnight] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84343241127839&size=420x420&format=png
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-08fe7395e26b35e2f1b1d5529ff517f2/420/420/Image/Png/noFilter
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=93011547469445&size=420x420&format=png
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=125104443555635&size=420x420&format=png
-    Field-Tested: https://tr.rbxcdn.com/180DAY-514dc22807b96f521fa4ebad0e62fef3/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-a70a4609b4e53394bf27ce3f7d2658c6/420/420/Image/Png/noFilter
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=118893582154888&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=103990182168005&size=420x420&format=png
 
   [Doodle] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=120730938583742&size=420x420&format=png
@@ -538,73 +538,73 @@
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91021701025515&size=420x420&format=png
 
   [Nebula_PATTERN_2] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-3ef414b0095bc8b415b0865ab7b8af9a/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-363ab59372545f5f7ed56ae4c78de02e/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=120880608401735&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135438554377924&size=420x420&format=png
 
 === AK-47 ===
   [PinPoint] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-008d0d76e2049c96e3108597b4751617/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-d847169a094a0e21e78ec4cf1750a559/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=78237429638206&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=131851553998351&size=420x420&format=png
 
   [Sakura] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-0f74db1fb780716e0b0ad98eebdde512/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-713e88de90665348c0e9271d4f492677/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-1d823702cba719f7d90fc9a6dfb5f809/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-5f24cecb4a3fc972feac50b2e3b1fc37/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-7fe4180b89a9bbac3692046b86ec9b90/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=118393450198241&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=134464474028073&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=115560805070835&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132101583168383&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=116216583772762&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-1012b6e9f72545effaf38dc0cf764bcd/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122613466279170&size=420x420&format=png
 
   [Aniki] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-5d520bd6a9018b0936d53431292f3b3e/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-4fbaba919f75f7f68d03b7a43ad55c08/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-42138b59da70cb5161fecebf456fde5a/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-b314787e6c1989be971f8f440d195528/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-82ddd5b49a5a5a590aba90dba99c6ce4/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=83000635050744&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=89863139782362&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=125847705689599&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132653228926993&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=97698769186341&size=420x420&format=png
 
   [Midas] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-14d7bddcc60b3e72320d494df2a47cf6/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-aad9bfadfc23de73e1fdf026cc1355d1/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-2928762403b682cd6cdea9920602d789/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-8c381dab780566f39ed282de89a29474/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-d5a22092072fe4e45dd8d336dcc14fbe/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=126943923949394&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=102744102832847&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=92280875204952&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=124853079404019&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=132447760649321&size=420x420&format=png
 
   [Rebellion] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-1cffba7ff1fd36d901a7c8852f28bdc6/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-52378d414753422fc450a0737a4e954f/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-37e0ac115c27e6cff67bad39ab36bff9/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-0a6220137b2d6f82be2de5f64520f6ec/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-55fa1b302f54315778084e2d95e62af0/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=121791965444830&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=126919196003220&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93230984607560&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=125230003909641&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=96439997416328&size=420x420&format=png
 
   [Luminex] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-25c31e89e970e75b8676bf0b07b03a2d/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-560836bf1a38708932873f4fe2a32950/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-a0471aa53c8a22392fcc9f0fa15a6d1c/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-6e03fd16d6692e0e44c20bd833da127a/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-07e48bc29415ef34183ac6199b4c34bb/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=91575659979849&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=132299891603639&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=97736565487557&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=76342992088277&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=71520819074429&size=420x420&format=png
 
   [Red Baron] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-c516f57410e6d95c79e2fe10186c3c9f/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-002547cd8729cb9c4ee6901241d78a72/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-f7c8374248f863ff94117b29de00e04e/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-93284cda26c38c609db79d5cfa9c9697/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-535f96166cba36620db9b829b274a805/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=101540917675426&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=113431950286920&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128636117250630&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=120540462094917&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=87196344825665&size=420x420&format=png
 
 === SSG 08 ===
   [Desert Strike] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-962f527a88a6ff100e7b63cd38a3e531/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-0a3c7a4222afb42d7bead30645bd9caa/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-b8058c9522cac0b95d6a207cdbc4b5da/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-5f4ddd4f52d7f58e05848fc27047f7de/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-e937f1b0a949d33e1f4284daa5893a7b/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74118799794382&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=102046364341782&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=80844512365078&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=90658746355394&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=104406427561342&size=420x420&format=png
 
   [Labyrinth] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-0c262aa3b1ee7d61b03ff9c6afa1cecb/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-87a37a50d521842fe76d68f5f02fbb74/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-2bbdb43ca32a3e01c81400f71c546cba/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-6502ce494b51935b915248f393f61284/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-41da9a82dbd072dfdaea4dd64dfe7c41/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103089015904236&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=104774626540023&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=136504167942960&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=83081551609144&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=125863200994892&size=420x420&format=png
 
   [Stock] (Stock)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=138912757184897&size=420x420&format=png
@@ -640,38 +640,38 @@
 
 === FAMAS ===
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-78a0f78b940e81c44dfdc49d6e203441/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=102210032007604&size=420x420&format=png
 
   [Medic] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-43e215298a85df70ce0e151b74ad13b8/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-3ba09b9ef8c9c2d3bd35e360b041b116/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-e673807c1a3d324d1cbce14c0db48744/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-0c3e18078b4b549ce1d9f995c1f1de66/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-21a9ef25b774fa2c861a4f886c4e34d0/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=93020935624507&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=81100614716585&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=102105624872262&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=127674129672529&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=121609561369585&size=420x420&format=png
 
   [Heirloom] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-ee1cd9e3529502828fef9e6b32d0f49c/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-54b771e6144aea464b158aa631f2b75b/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-93d08f24678732b15ff520f77fed3e7c/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-3df070b759e86900c27ee9e790324eb7/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-ca11136e98ca67a123a1966e86fc17cc/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=81459830277649&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=90925121300228&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=79205785254014&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=126619533464194&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=125832373673728&size=420x420&format=png
 
   [Arctic Camo] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-7e9763d8a6df4ccf36ebe5ceb809b932/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-b1b9aec17b6059169d769c4a141dbffb/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-2cad5d408ec5737ebbcc5f529540f7a2/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-e474094f367ce75f58c94812f491568e/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-7af65a75fdc78cafb3d8f211d19c8f85/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90069607553613&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=124322214124931&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=90537829040020&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=92865906821105&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91099446700127&size=420x420&format=png
 
   [Wallpaper] (Blue)
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-d9fec9debadc6f5324d2a5b945b93f14/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-e1c254f56d64f46a4be9a2fe160c04b0/420/420/Image/Png/noFilter
-    Factory New: https://tr.rbxcdn.com/180DAY-430bc04fb83d144fffd1c0ef05f2f87a/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=121887888097892&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=95059150083208&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=120439847405332&size=420x420&format=png
 
   [Mind] (Red)
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-320e2f4a871ddcac214f0db4816a7234/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-e2ef6cdf3dcc3519462e6b65ee50ca46/420/420/Image/Png/noFilter
-    Factory New: https://tr.rbxcdn.com/180DAY-eb1c3cade2917556876aacc63291d1d6/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=122153634825593&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=118731255706056&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73737345526334&size=420x420&format=png
 
 === XM1014 ===
   [BloxoBlasto] (Red)
@@ -703,7 +703,7 @@
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136291104759374&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-0f6ae74223253b8f8f0fd8f59b12aab2/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80234588113521&size=420x420&format=png
 
   [Koi] (Blue)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131064385117152&size=420x420&format=png
@@ -719,6 +719,110 @@
     Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=106078356569703&size=420x420&format=png
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136691921909609&size=420x420&format=png
 
+=== MP9 ===
+  [High Octane] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99133552349769&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=111622713230305&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80128845111227&size=420x420&format=png
+
+  [Anodized Red] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100809950300989&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94837896185235&size=420x420&format=png
+
+  [Canyon] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99598867872286&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=124241254951498&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=85795009276906&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=113506652566266&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=83519002143670&size=420x420&format=png
+
+  [Patina] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=123681460113782&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=134396101160464&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=119314653875293&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=107689724437182&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133972538887947&size=420x420&format=png
+
+  [Graffiti] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115242436485830&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=83647205493307&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93431762733116&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=128049649185939&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=126621829587889&size=420x420&format=png
+
+  [Classified] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=75959435584717&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=117903988950147&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=131279075762144&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=73654671618251&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133391862829107&size=420x420&format=png
+
+  [Paranoia] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=97054421713962&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=140338085368413&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=80871885341987&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=83422068792266&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=124443221193377&size=420x420&format=png
+
+  [X-Ray] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128454411389675&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=139134147658636&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=108333685497623&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=129481388435149&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=75971174614785&size=420x420&format=png
+
+  [Choke Oil] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=112442261177271&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=97108345898433&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139888911123048&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=119139709677641&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=116390996480596&size=420x420&format=png
+
+=== Tec-9 ===
+  [Striker] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136793807710225&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=98308610513171&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=124386520564426&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132102417846766&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=138189925187552&size=420x420&format=png
+
+  [Trajectory] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139338962898457&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=114582717346037&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=125427126209689&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=77146323489565&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=101590299725260&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103535879159128&size=420x420&format=png
+
+  [Monarch] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=138177756309876&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=82079636896138&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=86362121698704&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=114791867876111&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=114090738979346&size=420x420&format=png
+
+  [Vice] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=93271507640385&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=97172046192341&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=82200131424180&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=120475438477497&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=131947608590837&size=420x420&format=png
+
+  [Timeless] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84194710883435&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=99497193742382&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=122666487751735&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=76204182471714&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=113163553905319&size=420x420&format=png
+
+  [Medal.tv] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129652986787950&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=112228540204567&size=420x420&format=png
+
 === Butterfly Knife ===
   [Nebula_PATTERN_11] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=140719190235202&size=420x420&format=png
@@ -733,70 +837,70 @@
 
   [Nebula_PATTERN_4] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=105118167424117&size=420x420&format=png
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-182b693ee484b7838bd69dcc064682b9/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=118717840597084&size=420x420&format=png
 
   [Fade] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-45aaf7be4b5b82765b9c23837555889d/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-51cc61a1de42646fce619eb3bcd3401c/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=106697835426931&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=129663034665038&size=420x420&format=png
 
   [Nebula_PATTERN_8] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-c2b7d598c079615dd0de4905c5dd18a3/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-e2c060ac3cc1bb8fd538a7c9333b0473/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103095483479531&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=86464660002677&size=420x420&format=png
 
   [Nebula_PATTERN_10] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-de0a27c9fecd1e66d660554be5a52890/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-561a49555614db53cb914e0d23c6ca4d/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=98118442417243&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=104137329822474&size=420x420&format=png
 
   [Lebron James] (Forbidden)
-    Factory New: https://tr.rbxcdn.com/180DAY-74e99b4b21cbcea9113d3b851fc6d4be/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=104452150002711&size=420x420&format=png
 
   [Nebula_PATTERN_5] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-7d111176cd6858d2a5c59605d6a258eb/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-3e422469113a9534aec3becbf427a09b/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=85585728374106&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=117875099903826&size=420x420&format=png
 
   [Damascus] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-c4df17ac1e900b92cc3d3ee75b465f0a/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-4a6ce1f7481cc98cf3790ae5be19d2d4/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-07ab43b8276189dbc015f55755637606/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-7dda76438a2aac8c4c69ef52d8d908e4/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-d4aa7966746047e8830174af3b3cb2db/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=109109777074306&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=88219735080880&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100470832982059&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=76769632719349&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=106459216379992&size=420x420&format=png
 
   [Nebula_PATTERN_1] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-f6c0b6f2875c33b44a6d49751cb8af6a/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-47a22ef9d0160541a97fd5b9bc0cbd22/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129916920602762&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=86359654614439&size=420x420&format=png
 
   [Woodland] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-bef2d2bf4bb68941120eedafc8f9892e/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-0620bf1df21dae472294cd8b2d18284e/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-f0016a9dfc785d788b27d58883269813/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-af30ba63acda805ebfe34570daa0f7f4/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-df30c45980252753edc8584770db4719/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=78162582750708&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=97368531878925&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=118492035832950&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=105169290337887&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=137472001096827&size=420x420&format=png
 
   [Nebula_PATTERN_7] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129605814597939&size=420x420&format=png
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=118942066617980&size=420x420&format=png
 
   [Tiger Stripes] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-9f274ffc1ba929496913d600078283ed/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-45d038e32051e1b26761db4de16c9ca8/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=82145293216243&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=77824871166797&size=420x420&format=png
 
   [Whiteout] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-5a92a7fa4f8e650e6f2f09fdf96cd13d/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-822f41108a23caee4a8e901934a37120/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-442fa4254bbb57fa3b4c24482e8d73ac/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-3a314358ababdbd162bf724eed332ec6/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-ca3f7611a38ea16635a75a2ecd33fe70/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139796292927038&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=117504942764969&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139434790383405&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=91304924263734&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=132355552807665&size=420x420&format=png
 
   [Blackwidow] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-7aa5bc18c3caedc4581262d6ee300e8e/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-4e0ace49ef57c3bd6103a33cb25ecfa9/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-7072ceaa5ce5f428bbf58f3afb5e01d5/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-cfa780897f29e1ba1c964949c8db4689/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-1b0920e11dbc4c08dbb366745b732604/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=109975631075651&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=109712056835049&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=87984875191063&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=98656567124308&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=102105897971181&size=420x420&format=png
 
   [Rusted] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-f4c88db845d41fb7bebf8e46604742c6/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-bc15338a27c57b0f562659e321c3a2ee/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=130942303823779&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=126586401733223&size=420x420&format=png
 
   [Scarlet] (Special)
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=136826921306441&size=420x420&format=png
@@ -804,8 +908,8 @@
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=125882948964404&size=420x420&format=png
 
   [Nebula_PATTERN_6] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-593035ee79f353ec31ce18fcf5f1f61a/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-db4faa86e4717bcb6c30bdb41e625532/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=81099521980392&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=97508272369611&size=420x420&format=png
 
   [Nebula_PATTERN_9] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=116261339703847&size=420x420&format=png
@@ -822,15 +926,15 @@
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=78588429271427&size=420x420&format=png
 
   [Nebula_PATTERN_3] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-94c84be4c817b493f89ec4b433e9bbea/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-1b2c5db8ce3f8f866a0078747f8a309c/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131473599834707&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128423955448608&size=420x420&format=png
 
   [Midnight] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-617dd799c531046c0933ce677bf6536d/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-64a0159b756b4895b8698a31ee090add/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-f66a64f3fc4c5c0b70364ab9ef348e8c/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-386d0133402bf866b9746faed45eebb3/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-03f491d91e9290eaba8d257ba9ab0936/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=82497240178553&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=80849544279369&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=130443533335945&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=105011435101107&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=75677167247355&size=420x420&format=png
 
   [Doodle] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=102865152153231&size=420x420&format=png
@@ -840,40 +944,140 @@
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=73621875780026&size=420x420&format=png
 
   [Naval] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-0268f92ecfe4855791d93195321a9948/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-0e409664f3e4b8969fa972145df26ac3/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-958c4a800bfceac2258a9a95a3d192ed/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-395e2d7683a3c2583f09166d73e57335/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-68b1d08c0fe335a4be92741b270084c9/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111900993940951&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=92568290781966&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=113092321315285&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=111947262965250&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=120354232468368&size=420x420&format=png
 
   [Nebula_PATTERN_2] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131523329502512&size=420x420&format=png
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109346091444111&size=420x420&format=png
 
-=== P250 ===
-  [Glacial] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-d8a2288db01e0451cb97c2dac15cd8e2/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-e43e707edf09bd3863a06f5d00d93c83/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-97b482e20ac9294a418529c91d917f5f/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-dbb52b147d7ac9a8598f2e7fee437e23/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-ed67817d61f9594c9fce1f9052f0df1a/420/420/Image/Png/noFilter
+=== Operator Gloves ===
+  [Bumblebee] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=82742140649629&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=90125348736759&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=80145911947213&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=80970262054008&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=117255091746908&size=420x420&format=png
 
-  [B-250] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-aff521ae87a3dd579650f5b50ba8f28d/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-2771da766460aa2b941f8400467d8459/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-32f4e8c23bc10769f34f885e8f618cf4/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-30dab6a9049d65e0b73e8bf6daf31e26/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-62bab4b8bc8741c88390971ce62bd925/420/420/Image/Png/noFilter
+  [Black Widow] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84048948308515&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=138653261094392&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=71661219023384&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=108925296451237&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=127546645865128&size=420x420&format=png
+
+  [Smoke] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=108536789406170&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=79543261778209&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=97561410023984&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=115329106576111&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=122485724691233&size=420x420&format=png
+
+  [Amber Fade] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=91028038958284&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=91950262820898&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=110561267356686&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=134473444793576&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=96896842271984&size=420x420&format=png
+
+  [Emerald Widow] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=93323651655129&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=139116138449988&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91559985095476&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=113725217960905&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=88397392853372&size=420x420&format=png
+
+  [Reinforced] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=123073579676420&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=75130641983749&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128081466981092&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=94438103935137&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=73055076870520&size=420x420&format=png
+
+  [Hunter] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=81779093546713&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=134865690050160&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=115595715500650&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=94345434477115&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=87443900211170&size=420x420&format=png
+
+  [Agent] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=72181517504912&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=103670820115008&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=79049831423857&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=118660277350935&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=132076028397530&size=420x420&format=png
+
+  [Hellwire] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=79263996275288&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=82208408443542&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=127735032480035&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=133294672899559&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=92903097171990&size=420x420&format=png
+
+  [Fade] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=110019397326515&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=87532596320006&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=113838435852655&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=95658709449892&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=72854086703797&size=420x420&format=png
+
+=== Sawed-Off ===
+  [Orbit] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84785295584801&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=99175681523978&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=92342673668190&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=105662275438112&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136774669344300&size=420x420&format=png
+
+  [SuperSoaked] (Red)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=92355344149162&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=127374694884811&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-01ebcba41517746e0a0bd9635596bdf8/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131128504842218&size=420x420&format=png
+
+  [Improvised] (Pink)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119038154277165&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=74851447961424&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91646742459385&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=84788662892568&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=99030289110477&size=420x420&format=png
+
+  [Panthera] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=118932565285228&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=123545593545187&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=73603751426295&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=130976686708391&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=122796258243535&size=420x420&format=png
+
+=== P250 ===
+  [Glacial] (Blue)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=116484949047326&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=106533345768337&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91934691371125&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=130575595456625&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=114357535564439&size=420x420&format=png
+
+  [B-250] (Purple)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=85086661556319&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=73721462731764&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135634922303257&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=123675135585584&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=75267134242993&size=420x420&format=png
+
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119752198454013&size=420x420&format=png
 
   [Mindspill] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-552d8eca519f34913f04c1479a0f5b12/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-db915e5cef4ba24fa8a9ea94effbbfff/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-7a999cf8095e8c843c81c31976671eb2/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-df96668babc225c8a0f913dff212c29d/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-44d15093e4a89e80573c196befb05033/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=120468688778662&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=105092306142890&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=115823420438075&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=106743011680069&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=74274565187869&size=420x420&format=png
 
   [Zen] (Purple)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=126784518790646&size=420x420&format=png
@@ -883,9 +1087,9 @@
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=90707347077700&size=420x420&format=png
 
   [Pulse] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-1bfd0739ddaf2280f1dd22f3faeb12a4/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=108106875379899&size=420x420&format=png
     Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=82029252576480&size=420x420&format=png
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-deeec8285c8f29038e9b5793e2ef1388/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=113328874860546&size=420x420&format=png
     Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=131483597642682&size=420x420&format=png
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=121093242741002&size=420x420&format=png
 
@@ -895,6 +1099,81 @@
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=130505316020914&size=420x420&format=png
     Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=121169238008086&size=420x420&format=png
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=109846665756826&size=420x420&format=png
+
+=== T Glove ===
+  [Stock] (Stock)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=77444492724710&size=420x420&format=png
+
+=== Hand Wraps ===
+  [Crime Scene] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103301070341086&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=130122448698951&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=119898698095566&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=127698876978945&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=111942599567614&size=420x420&format=png
+
+  [Bandage] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=102250051983579&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=98335320620507&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=117351828594124&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=117369412532599&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=76392482316111&size=420x420&format=png
+
+  [Camouflage] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80289047803085&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=138280211282431&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=92411225451421&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=134867428499529&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=97765972557640&size=420x420&format=png
+
+  [Checkers] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=70918561887392&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=123771965271917&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=133484300952458&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=133527059574157&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=116532788945969&size=420x420&format=png
+
+  [Carpet] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=116465088725763&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=137921127318462&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=138927643244870&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=126345338418958&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=103457870527927&size=420x420&format=png
+
+  [Aztec] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90350865435356&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=83597609229431&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94459751920253&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=134427594167035&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=134928520913110&size=420x420&format=png
+
+  [Taped] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128091165481921&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=87202059586272&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=133633888792715&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=128659844292674&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=103360259459591&size=420x420&format=png
+
+  [Hunter] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=121877212650460&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=85326694941491&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=116925143938993&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=134509546338442&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133148048375129&size=420x420&format=png
+
+  [Meander] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=78613308215975&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=135414599888457&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=137626001077502&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=131113540931259&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=109485483318525&size=420x420&format=png
+
+  [Snakeskin] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=110189976157643&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=131629762534411&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=98288016918993&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=76633063494031&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=81847103336460&size=420x420&format=png
 
 === M9 Bayonet ===
   [Nebula_PATTERN_11] (Special)
@@ -930,138 +1209,138 @@
 
   [Damascus] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115080076019472&size=420x420&format=png
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-9c61971ab142e5f53d5d7fefb5df2eee/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-36b39d96a2ffd2b324bffaadfcb1d2c1/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-de3af097b21696f6fedc1ca8c5f41f63/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-e441d582284342f5bb821df27b7bc12f/420/420/Image/Png/noFilter
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=83337006255653&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=120163562980219&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=97412762636833&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=72742572905843&size=420x420&format=png
 
   [Nebula_PATTERN_1] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-1e452594eee0ac15bb79417d030a54ef/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-062fa1f84881a2d564b208efb37870d7/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=85574359172175&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=110893052977365&size=420x420&format=png
 
   [Woodland] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-dac915fe5878b444286f4b346287b30f/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-8f7bcbcae42c91a018d9801712e69985/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-f85a28f059676f5dd7710fce7c335a31/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-87bba3367a22593d3511c144216cd6aa/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-0c6323cc0a4740d32aa6d3ee8c1c3c03/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=112899170359698&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=81720519666966&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=107052516609250&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=131860279345063&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=131456188416891&size=420x420&format=png
 
   [Nebula_PATTERN_9] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-fdad2f244a74393dad801a2e306fdb60/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-387a4b005127f9b24de34f910c361baa/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119638363554450&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=129030090916147&size=420x420&format=png
 
   [Tiger Stripes] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-c207ea61d5669ac84401dc2ab3984f7f/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-126b23e83061db321f5fd49c9633312d/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=70463036776846&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=106334458975159&size=420x420&format=png
 
   [Whiteout] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-7137e671b1db757e35503dc9a7ed6078/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-d6e30b1dce9b7d34a244e1b0c75a79c6/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-09b7aa24074fe3faf2d4c349a65ed1a5/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-20505c5e4bdb2346943277178bfd7fb7/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-ac39aaff2d8333f7a3fa9e3d5fb605be/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=107157746622142&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=103018390585050&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135474010164500&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=93885588205230&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=99691635884813&size=420x420&format=png
 
   [Blackwidow] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-3def581fee45710a0956b7bdb55289f2/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-b1567107517b104908c5cd61bdcd837b/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-1f5521b7fde351b25fe8f29022fbdc46/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-72d9ff696d6d358b5a07b836695c26e5/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-18acbd7fff555536bb2cd74240948051/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90806456943659&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=103292946704394&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135656337402088&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=140191612992515&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133817317497359&size=420x420&format=png
 
   [Nebula_PATTERN_7] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-fac24c1cfeec443ce23c59cc4f5ffeed/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-15b07c1416d8b9e490b6489b09ef0d95/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=91523915439261&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135003290759593&size=420x420&format=png
 
   [Rusted] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-45cfe7510059f84832b2415b2afbab54/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-ac04b5bef65fd94d014293e82306c98a/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139932715629570&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139202389491593&size=420x420&format=png
 
   [Nebula_PATTERN_6] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-90aa164a00c3d6adbbf99f2cdee5fc09/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-cba19dd55cde8fad88f6901efb7ef6a0/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99280286016311&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=110932830439026&size=420x420&format=png
 
   [Scarlet] (Special)
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-3bee4e2069aeddceed410afabc1bf74f/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-16c9a90a3c94a0c8b3cf1e2c03cc494c/420/420/Image/Png/noFilter
-    Factory New: https://tr.rbxcdn.com/180DAY-3216d2def69ab71266c30124f427fc39/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128936004628773&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=77463187967380&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73019270186108&size=420x420&format=png
 
   [Violet] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-20e7065e17e53cd5b368a79a8848a008/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-447d87855a8b14350184b6797b58e33c/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-e83c983c30a16229a91aa5fbaaeeec78/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-25ad93c54cce7061b7c7b30e93d2a23b/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-2c23e3f4182a894dba9eb6ebf5d72b07/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129718786201649&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=95289677270302&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109569880770101&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=82188526213383&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=98230664735546&size=420x420&format=png
 
   [Vanilla] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-79d835c5938858e27d56c861cbfeeaa3/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=124824778019343&size=420x420&format=png
 
   [Nebula_PATTERN_3] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-a1bc025828549c4dc381b6666470432f/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-0d9680108b9a6b2054e35d8f86055f20/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119934508751304&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=140066179647394&size=420x420&format=png
 
   [Midnight] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-b47489cce8c96581b90294808d367ce8/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-4c06b05ac6b6963eff0227de8f12ee15/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-dab1f1a53d77edd9f487fb595c21fb62/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-10ca9ff6c2da1a73ad4330a1633b1ec7/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-fe2ad623efd0bd4c268c862be7e5cc24/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=134444035831656&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=120658555568581&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=82612444811385&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=83771185767702&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=114038256581137&size=420x420&format=png
 
   [Doodle] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-903ea6cf9d4a60dbf397bedc93d7ac39/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-26eb0be35af282670cfd49eb4a516934/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-b6c6cc5a5a6ebe01bce377e59ac29c08/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-b2098f9fa0dad6cb80e0a6da312250a5/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-a5ed549194e7b17846ef01c4239ecbbe/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=125715390726858&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=95268985588696&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=75124755103105&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=135619474914184&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=75392818847311&size=420x420&format=png
 
   [Naval] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-d2755c434fa615627f6bf3fac2ade6bb/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-c8e11160fc384c2c54d10dd5c44635d9/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-f4e1be2674b2d81279c973723ca23c9f/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-86731fe675e65b5bb1df601a340dadd9/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-522fc6c24f75f3f1a105cb652a9a547e/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=95969897826010&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=85103057616080&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=84927290590059&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=131394773165257&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=99642033029727&size=420x420&format=png
 
   [Nebula_PATTERN_2] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-025b72ae78b124aca9452b8e80168c17/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-d93ddc48b1efb6eb8c6d929def782268/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73597845491792&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=99614715945335&size=420x420&format=png
 
 === Five-SeveN ===
   [Mk II] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-62642d179deb63c161515df8a27350f1/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-28d8960dc21bf7bfd5b3217fa3652c2b/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-6add851b0cc0a0902e7b2f92c5fb201e/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-1dfdac5d90dd3922d61893ef3f44a78c/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-e7ed6165760721946ee0d7175ab65220/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=93484299380499&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=105820131373560&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100284358399472&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=121954973007952&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91120009174711&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-eaf1ea070f394b445da3d498a182b58c/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=81698670085410&size=420x420&format=png
 
   [Control] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-f12dceaaffd17d91fd32b1af7bf37a45/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-2cc44fc45c33220c6b194b8bc68f1e17/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-bb34dbfa48da015f4ff8c95309956f06/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-a816eceec7a8b1ba4a09c1ceb92e5376/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-cafa5e1bda7680d55d6772cb89c12057/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=134074624196032&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=88560553833936&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100325952262883&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81337313759387&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=98898828542047&size=420x420&format=png
 
   [Icecap] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-6cdf83e836d6d3a7ab514bb2a3ee0479/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-3cf21085d3a1c65c1ebaae97a9cdc5e4/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-61b9ab2f9c6bdf8e74cb2adbfa805d3b/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-7ed84e661d07407cd06be8d8e1ff4d06/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-ed16d4bd530931a88b4207c455b8781e/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136238530759469&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=136978974433496&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=126315153890977&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81068980810629&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=129260697281641&size=420x420&format=png
 
   [NoMercy] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-2208aa6ea6095f4ef3f5aacb60550538/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-c80793da08a17dee93085c9e3033bb4b/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-47e79129a72fedde80bf63c6e83d650b/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-0a8a85b8e01c451598432247a5e99014/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-39f8f817b881de683589299fccc9be50/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111368902054761&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=77273262643476&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=92446911199361&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=127677513551735&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136230266990450&size=420x420&format=png
 
   [X-Ray] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-55f3eae61ffee474161798b71b0294fb/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-a35911585e7cce613e012d7bdb51fbd1/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-04677e9f14372b5631dd9ce058c3b5b7/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-97db26e4b38c09ed2cdc63ab5bb7c615/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-22919c98c6522f64e1bd6b2741047ec4/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=117920971198120&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=85874133624007&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109289908733257&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=113146181865991&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=115799900868343&size=420x420&format=png
 
 === R8 Revolver ===
   [Warui] (Blue)
@@ -1087,39 +1366,39 @@
 
 === Glock-18 ===
   [Yurei] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-a6a1ccf46433341e170304b5ab951e9e/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-e82159b2c6f076b4682156f809c2ee19/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-91099c771af05b80a8eee9afe6006d2f/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-f6c5a64cc744232581b3b2feb4965c71/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-1dcae639d15cd504592e1ea85927df34/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=138428555108024&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=133026317441843&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=108646752984531&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=122708345942947&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=128232143990288&size=420x420&format=png
 
   [Aurora] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-5c3a42d832f78db920e0c4a6c79cc383/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-73cbb2142be5675c20c93f4900e55813/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119347012284483&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=85222134849580&size=420x420&format=png
 
   [Broken Tv] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-98f51c9184bc1f623fb52124adc46209/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-bf5ecce34cc9cb4b4fe012e331f18775/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-4533471768e78df74f4edac78b8fee6f/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-02413a8daaf41fc653b6279870ac1355/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-f38427b903b1a97ff961a01b677d844c/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=139806341142620&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=96362295199271&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=122198446568220&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=85260942426407&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=112954945614955&size=420x420&format=png
 
   [PinPoint] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-e983093df2069baad23c7be9c138046e/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-b6487cd0d5eff01c0ad746ae5f3f9c82/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=120890001687679&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=95491114702798&size=420x420&format=png
 
   [Midas] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-c9437bb4ebb651300fec7eb1a1318ae1/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-cbbaaea3fae2fbdc40d8ff9ce9c8163f/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-6f02da48033bff74800d869d1c982c2a/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-6f02da48033bff74800d869d1c982c2a/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-fc75abe1abc2a7062d684b7bbe753791/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=75696586761696&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=136413368496646&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=105524960417340&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=133053393136419&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=90745708667993&size=420x420&format=png
 
   [Stock] (Stock)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103206109634679&size=420x420&format=png
 
   [Fuji] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-17b0cd2a8001141887f191997f2d3333/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129437922121163&size=420x420&format=png
     Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=106036523384236&size=420x420&format=png
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=78360560908630&size=420x420&format=png
     Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=94995471139150&size=420x420&format=png
@@ -1149,98 +1428,143 @@
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133057052604333&size=420x420&format=png
 
   [Midnight] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-ac83f018ace11ee6a58efaf567065367/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-edbd82a92c3d55eda2469f107b6ada2f/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-d331582fc79acb0eff2178c291b42744/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-2922d934766466632caae059362c6216/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-27c72d2936e003488852f0a6b5acabae/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=70369357875598&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=74497815853469&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=95140918031262&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=99912069731269&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91772214668327&size=420x420&format=png
 
   [Tiger Stripes] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-1d31b15feb3c21c109ffddfa1dcfe611/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-4b7858724cc9d7cae0706a72a269e2e6/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73060066712564&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=76546028773659&size=420x420&format=png
 
   [Fade] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-b96b42d1acbefb9f2a7a2d2ab760ae5a/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-9dc5dc345d4aa8bb6f8430b172dbf389/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=98305035734329&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94016370356821&size=420x420&format=png
 
   [Naval] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-e070b22b50651cd6006668f116ac1861/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-9e8b675dfec008b27e740c9f670c5e82/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-dda57ab2eeba3876492fbcbd47aab438/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-1a30cddba99fa85e9672ef145808c73c/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-717ca50d14ccf36ec437218715955d0e/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111075581917461&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=105791671201607&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94564133457664&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=89854328720215&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=130794579168835&size=420x420&format=png
 
   [Violet] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-0595e01bc5cd10d63acfc11943cb2e98/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-d704a84ffee7200590ec406119884b15/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-3ab40d776e3436aa53dfb72fa27918e5/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-b9093437e44eb74ec92b04bd8b558b6f/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-b936fdc6f1248863bcc90c56d1e70bb8/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=87519753219275&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=83260383971636&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=96948008825577&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=91369271309214&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=116959823017790&size=420x420&format=png
 
   [Vanilla] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-31ac5c5f76a562682ab063ff491d368e/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99687107676025&size=420x420&format=png
 
   [Safari] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-066fe354aa93a968822686b1bc344db2/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-da070212d8e22440d567b000a96c2166/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-e83cfd37795f036a38957cf0ad6abf3e/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-b3ed4052f695cbc015949924021c2403/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-fba3673372113452ae3d79893d435fea/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128389123015241&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=129142522706240&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=97831964712953&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=108323551285910&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=84850443131596&size=420x420&format=png
 
   [Scarlet] (Special)
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-161bafd358e4046c2ef847e397815daa/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-8d2d8663af077c85999a850acd9055df/420/420/Image/Png/noFilter
-    Factory New: https://tr.rbxcdn.com/180DAY-094d70c086a924110d83a8feaaa028dc/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=88231911115980&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=91233632509670&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=110954143502335&size=420x420&format=png
 
   [Doodle] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-4ba62a8ae3406fee93b6d3a32b33c1ba/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-8f179e6da56d7b4756168e1971d99a62/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-29c8e50345988a575e93f56579b4c4f5/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-e7cc9883c864336aa888cd3659316f6e/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-b282bf5170a4f743917a320d84a11d6d/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80165507327550&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=123548023673798&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=130444038853569&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=87444365917446&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=78612721125879&size=420x420&format=png
 
   [Damascus] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-9f47068928d8a4d509bfda75352e0152/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-a1d444ca08e4a4ddf221d9fb2d419347/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-1131a0e46dc336dc908bf27ab8d66fb5/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-1353789134d7da48124441353f7b8734/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-bfe89a65aa0227f15a58675b876bd785/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=127468787069985&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=91280621345567&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=103332543575963&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=106569144688235&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=116505835912754&size=420x420&format=png
 
   [Blackwidow] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=129449718166052&size=420x420&format=png
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-e6f7c93b31803fbe37ebe9a2476d5922/420/420/Image/Png/noFilter
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=99580530879915&size=420x420&format=png
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=95264437168832&size=420x420&format=png
     Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=135040483338183&size=420x420&format=png
-    Well-Worn: https://tr.rbxcdn.com/180DAY-fba29a1c3d95d683056c14a33352a745/420/420/Image/Png/noFilter
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=88837519842297&size=420x420&format=png
 
-=== Sawed-Off ===
-  [Orbit] (Blue)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84785295584801&size=420x420&format=png
-    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=99175681523978&size=420x420&format=png
-    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=92342673668190&size=420x420&format=png
-    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=105662275438112&size=420x420&format=png
-    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136774669344300&size=420x420&format=png
+=== Sports Gloves ===
+  [Bumblebee] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=116732891350636&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=71909678184888&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=72707406241142&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=82164297917837&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=71816429710891&size=420x420&format=png
 
-  [SuperSoaked] (Red)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=92355344149162&size=420x420&format=png
-    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=127374694884811&size=420x420&format=png
+  [Freshmint] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=127608450845755&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=125832191903342&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139031788062429&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=90014427339557&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=125305565672148&size=420x420&format=png
 
-  [Stock] (Stock)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131128504842218&size=420x420&format=png
+  [Blackout] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131525089627267&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=104944290419195&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=123366515204581&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=116573072199444&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=71861203389475&size=420x420&format=png
 
-  [Improvised] (Pink)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=119038154277165&size=420x420&format=png
-    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=74851447961424&size=420x420&format=png
-    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91646742459385&size=420x420&format=png
-    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=84788662892568&size=420x420&format=png
-    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=99030289110477&size=420x420&format=png
+  [Tidal] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=79809682082551&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=85577578394124&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=103731343327305&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=70428361318773&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=106782442602018&size=420x420&format=png
 
-  [Panthera] (Purple)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=118932565285228&size=420x420&format=png
-    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=123545593545187&size=420x420&format=png
-    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=73603751426295&size=420x420&format=png
-    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=130976686708391&size=420x420&format=png
-    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=122796258243535&size=420x420&format=png
+  [Racer] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=114643071471160&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=106097455348182&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=115449203198953&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=78336332360783&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=106076927193487&size=420x420&format=png
+
+  [The Ambassador] (Forbidden)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131021130145969&size=420x420&format=png
+
+  [Labyrinth] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=109212398466944&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=74803631889886&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128384275660182&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=76800681928177&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=105011092750143&size=420x420&format=png
+
+  [Hunter] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=125152079647129&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=85173178916823&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=97613915041599&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=113400248703283&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=75858540739941&size=420x420&format=png
+
+  [Malibu] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=101305569158677&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=113991417511042&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=102680963036851&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=85623937396216&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=137388471218595&size=420x420&format=png
+
+  [Imperial] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=75665163318076&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=71569130993566&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94177051788565&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=93302327882041&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=127387721119286&size=420x420&format=png
+
+  [Dune] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99569571925114&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=104056437535118&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=128093294159864&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=95290912478488&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=120756211963543&size=420x420&format=png
 
 === M4A4 ===
   [The Ambassador] (Forbidden)
@@ -1344,28 +1668,28 @@
 
 === Zeus x27 ===
   [Overcharge] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-39c93415efe30c6b3c5ba45be92683a6/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74777043312975&size=420x420&format=png
     Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=137754851638548&size=420x420&format=png
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=118752440825544&size=420x420&format=png
     Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=111170735931364&size=420x420&format=png
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=104064999281881&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-3d5d401dc98a485335db81c4d198d964/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=132815946459334&size=420x420&format=png
 
   [MedScan] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-3f42db029b80ffa41e4bad49586e353f/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-0ee108b3720e1e39f1300ae3eec469c2/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-5a8064a2737ee0434afa4025e7925988/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-0d048b710805dee48c56b9950243c5c4/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-af2a7af202854429fe77d5a44ab6728a/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111727646284933&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=88923804816877&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94412790987867&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=80933956253598&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=98369482169630&size=420x420&format=png
 
   [BitFyre] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-7decd126dd5cd3104aed26417d746016/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-f8c5382de14795c567ac959c6d6af8f6/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-67e18a634a7f81035679df3cc5fbfc59/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-5c6c682cb456f5d157dd16f8c9223f9f/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-8953bd369ecb0027d154fa9de36e869f/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99110361398481&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=79928845459144&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=87467173467720&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=91679548419019&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=80425294072601&size=420x420&format=png
 
 === Gut Knife ===
   [Nebula_PATTERN_11] (Special)
@@ -1400,8 +1724,8 @@
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109747679356856&size=420x420&format=png
 
   [Nebula_PATTERN_7] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-c2f4023500f5f835cdf9919895677b88/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-79445073ee16df7b39c36be4db7d21f0/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=126085819529356&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=140625979872530&size=420x420&format=png
 
   [Frostbite] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=104711840445578&size=420x420&format=png
@@ -1439,63 +1763,63 @@
 
   [Whiteout] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=72559787453342&size=420x420&format=png
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-67ae4e4c4cf1943c1d89dfb8e9df7974/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-7d1ea9070c3716672c22f8631a4e8223/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-1a132dcac38d1d298af86c52b2b5eaa6/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-eaf262fb6d6f62e6a21b5a4e05e7254b/420/420/Image/Png/noFilter
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=102749415917725&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=96022549197857&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81719110991951&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=84037921431353&size=420x420&format=png
 
   [Blackwidow] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-f3d28511f5a0e5251780c2988ecab596/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-686c4731d34229ac658cc291517fa80f/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-cdf2a26c8732613d71a4322f3e75749b/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-d48b082f8b745e60d274e1af930e7ec3/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-54bc7ab039dd25f4d481f56dd07f60dc/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136907689255627&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=71756208221771&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=90341866873535&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=126782187314660&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=96441088723924&size=420x420&format=png
 
   [Tiger Stripes] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-221f97ed2ac2c75ef2d235a46c9d2524/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-e7d8a7811d8984d5d5d5ded41e586ca9/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=84654052342165&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=100365746090603&size=420x420&format=png
 
   [Scarlet] (Special)
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-9acc796415458005b6a2e927aebbd836/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-6cff5d568e173aabc27455e4caa44392/420/420/Image/Png/noFilter
-    Factory New: https://tr.rbxcdn.com/180DAY-b3b3688ce6b72081c790bef4609ca966/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=132295324456677&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=133547814662522&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=106791821145854&size=420x420&format=png
 
   [Nebula_PATTERN_6] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-4894226b536acb2a9d8d7ecc997052a5/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-6d3304fa96e0435a29c7dc853e669d58/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=126756541020217&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=83989920473735&size=420x420&format=png
 
   [Noir] (Special)
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-bde0717c444a212f05795bd50d31fda7/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-deeb8c0a77e470fdf82a7f64c2244aee/420/420/Image/Png/noFilter
-    Factory New: https://tr.rbxcdn.com/180DAY-ae41700e261d168026aa295cb7f6592c/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=132618846799763&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=128534843771134&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=98358735156670&size=420x420&format=png
 
   [Violet] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-ee692d46cadcc63aa2b482345f417607/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-0b11e8d78a10d9a418957507c5bf6357/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-df27facbdf92fb5cc824faef4aec2d75/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-a3d5da3586999d6785a8d97c94a68f3a/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-faf342af497b605db9522533dc9d0b93/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=127558628138118&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=87512025572545&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=74176188728808&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=122671687202033&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=124950337984046&size=420x420&format=png
 
   [Vanilla] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-3943d40a996ba0eed48d998f75c4c83e/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74506801768392&size=420x420&format=png
 
   [Nebula_PATTERN_3] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-d2cabb2fee37f597393094d96b6dda5e/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-dde70cce242336fdf2aba8ed6e4621f2/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=73286997483792&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=98525090029381&size=420x420&format=png
 
   [Midnight] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-5ae6079aefdf5d7d361087cef20941b1/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-1449d6e585d1e1281ecf2f0ef71eb7f3/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-958f21b1efd4388f156df3dfe6eab6aa/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-34c0b0feeb658cd93ae19329e0e38e03/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-0d668f7cd897b9baf6baf90feef69b64/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131381753965014&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=111075475283961&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=134810383662412&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=126593957970513&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=135009226023867&size=420x420&format=png
 
   [Doodle] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-e727fa742d762c98f74baae3be0610b3/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-bb9b691755a8f111623d41d6b4205c57/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-eed154c0811e9a2d5d1595e03d68697e/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-51b24ec18823437a1a9d5742eacf7834/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-b9879e334e2a85ec1144b823a6dcc890/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122235395836024&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=70636039357183&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=106799296369542&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=130896889553062&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=73674003112040&size=420x420&format=png
 
   [Naval] (Special)
     Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=140460587804154&size=420x420&format=png
@@ -1505,55 +1829,55 @@
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=110122893278193&size=420x420&format=png
 
   [Nebula_PATTERN_2] (Special)
-    Factory New: https://tr.rbxcdn.com/180DAY-44671289958551adea2a0696d50fa2e3/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-05d1ade1fbe6d9fc21c76f4e2efffc35/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=135259810470359&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=135932437301423&size=420x420&format=png
 
 === USP-S ===
   [Tekko] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-a9d5c3c94924c7027548b875ed818f5c/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-82b434077b31a7b2e81587d52869de5d/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136544769697340&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=138074315482167&size=420x420&format=png
 
   [SuperSoaked] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-a7dbde8f5a21142a54b8cc8b41f1af53/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-4e7199b3f150b3a8cc92dcc2d54f5910/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=111928584115671&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=138845301746137&size=420x420&format=png
 
   [SpecOps] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-1ae35689a6283fbffe9089fdb1219811/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-218d826ad5d4b14aecd0c16333bbbb63/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-e1cb9c0d8e614bae405604152b87bcf2/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-021b7ba874a1a19efd83d96a50cabfad/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-7777a97b183820b4d5e8d490b7724131/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=118258124480427&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=99126210395200&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=86525856219979&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=82803632757426&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136278586149188&size=420x420&format=png
 
   [Wintergreen] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-bce3439747a10b8a2a66b6c737a4b690/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-e169dc6ab75442ec2c217af52ba2800a/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-9532ea2e12cbd412aea54568479151f7/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-4120be5b1724eb2004951934a7c2e3ba/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-4f2d177b8e100e87973c337f3f3bd6ed/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=71945038229944&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=121481167971649&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93963016705395&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=102634164273385&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=84222570196624&size=420x420&format=png
 
   [Tora] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-7052b8791a030d5062d3f97d4da98534/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-e58c0d7272c0e10c0018fd47b775b873/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-b0f8820b86a5ba6625c7f8f63ec05744/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-8ce25a99397399b1a12bed329c98e5d0/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-62327fe485bdd6352547ad5169a6f5d7/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=99558048450030&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=84342294945033&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=133128597454281&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=140688301889599&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=117793446646202&size=420x420&format=png
 
   [Heated] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-b3c030a3e928975f8c7403640fbec285/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-b86b4fc0ed750057ca6cb85106b28cc5/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-94afc94e20942521533a7dcfdcc84537/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-87c535be9aa2127241df44b9c968ab86/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-86d96f27bcd0228971262937d97ca138/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=109389222580238&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=105022155938590&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=117086309169738&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=135157890709336&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=112636943972467&size=420x420&format=png
 
   [Ajax] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-7c0e0c38fcaa738f2501d8d1d45fd748/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-4bc226c0b88a47e276d11f88e67a5dcc/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-b56aba9fc849e63bf5338b82a6613065/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-276ab82abc98deb21a82836d3218f686/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-8871370b74c938b07a0a6337273ec2ac/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128789343995926&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=124275331165135&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=107002902153560&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81523925396917&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=137454941064436&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-c911ea4786e9f8298ff7f8e68266512d/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=108831167850928&size=420x420&format=png
 
 === M4A1-S ===
   [Orchids] (Red)
@@ -1564,213 +1888,184 @@
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136978917861419&size=420x420&format=png
 
   [SuperSoaked] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-1d37921adb6b597d4817ce679ba684b5/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-106866640db446faf6b3950bcff7c73d/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=108863433712503&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=113224713127008&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-62727edd70fe8db457240af43f7d6f97/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=112569776588537&size=420x420&format=png
 
   [Phaseprint] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-40b0c714491da596ff420fc47b577484/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-9f71675b783519d01e0b6e14040cf972/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-da89d08003938a273c2da50e00250034/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-d1cbec74fe1eb53205cfbf710fd86b58/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-ddbe58d2685acc0a1e8598b93c1bb1f0/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=76878278285757&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=94405143092333&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=81354701638449&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=96927126936565&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=100634075448678&size=420x420&format=png
 
   [Retro] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-93e56a2062e87914ff98b50cec753f89/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-d03e0f0016e45edb87419b50f67ebdf1/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-2dd2502e600c1c12ff7f76ca0d8ecb90/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-4036ada1baadb717a0a04f1556bef885/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-e1dc6efdb6f72306dc24bcb11119135a/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=127638017774749&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=118224955788076&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=113765676325681&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=136099865499385&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=128317294935696&size=420x420&format=png
 
   [Castroil] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-31591c5dffab7c29726e9ff476cdf899/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-e6078da7eda9d87537891d42ea66b1a9/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-4db67ecc12f567f2355e4581de3244d9/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-6ba734b2c65bd446ffbd872a21058577/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-d3f4515f8458ccfe1d03601fccd0b1a3/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=106466951136790&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=85133098581223&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=105690029227610&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=90769638564859&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=125824818740013&size=420x420&format=png
 
   [Anodized Red] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-ac04a28434b213225eeaf18890f80fb5/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=87908365282079&size=420x420&format=png
     Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=96089119972118&size=420x420&format=png
 
   [BlackOps] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-43c480f425c2c4091eb99e55ffceef13/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-61e7c8b5e9fe2aee70ad0518bd219bbd/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-d2ff35da32693e0ed6c67f7dd83efe09/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-fca8f81064bace5ae251d93c3089b3f1/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-813295ab2f44b3effad812914e37a85b/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=95735308676498&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=123119940648917&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=102693282630648&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=97621691736529&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=117373411393406&size=420x420&format=png
 
 === SG 553 ===
   [Dynasty] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-521a5ccf444f89cb5aca8adbe24a33f9/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-d1d911a4e724c2a0207d795c94160fae/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-c67face08fe388b3068d77a24e487235/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-ac4302437673dead7d7c3798470a4bb6/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-cda4a5fb3ece91f082d9117953030c37/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=104894297920788&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=108923687917400&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=129084290639760&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=120010731806979&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=118141387632013&size=420x420&format=png
 
   [Frostline] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-711b59de75b4fb7f78d4f92ef1137a0a/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-4b3c18a03806e461e0d607a6b05c904b/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-86603decc1b56deca3324dcf9b8b5bc9/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-88075744c0340d3acd7f0bd300dedbe6/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-6fe45e949a161c48530e4d6df4df9a55/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=107041781535861&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=130523609175210&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=109517405927390&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=72831815254774&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=100078117439394&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-edb29fdfddda5b2b44e63dcf4331d0af/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=121020346295718&size=420x420&format=png
 
   [Cryo] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-352c83c459b7fe63c3acadc36939cb67/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-6c22f98822fdf5d1583a6c916bd0aea4/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-a5b11b308f3d0fb7114ad953e757acd7/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-2f07f38524b1fde60334e6624a6fb166/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-16f3513e0ca9885d70d5b82d3caaef68/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90539545081878&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=95798611593346&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139801117308113&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=73239092594995&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91583107391265&size=420x420&format=png
 
-=== Tec-9 ===
-  [Striker] (Purple)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=136793807710225&size=420x420&format=png
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-3efc184c3fc8c5f57eb5da08385023fa/420/420/Image/Png/noFilter
-    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=124386520564426&size=420x420&format=png
-    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132102417846766&size=420x420&format=png
-    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=138189925187552&size=420x420&format=png
+=== Driver Gloves ===
+  [Nomad] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74064691716201&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=87660208673186&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=94145180430197&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=119687409655641&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=94017148832565&size=420x420&format=png
 
-  [Trajectory] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-0b94573b84d296e30c56ea857eaad956/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-c81d77c4fadf0bc1a90b8570819fddd2/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-6601188af8fa905ed3e67eaf13b99b1e/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-229d9b61f8239ddb84772ad59566e527/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-73c43b79627c64b3e763be552efa755a/420/420/Image/Png/noFilter
+  [Cardinal] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=90697963761030&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=132907050776311&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=113225474726106&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=92836379350979&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=123298184639118&size=420x420&format=png
 
+  [Gator] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100906379437261&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=137365868655039&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=106939474135998&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=104056742229327&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91448505697882&size=420x420&format=png
+
+  [Midnight Weave] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=79682883857169&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=95617616589943&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=130244359579899&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=83357555167331&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=136763032048779&size=420x420&format=png
+
+  [Tartan] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=87090405850366&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=121161367380797&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=129462091675291&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=135155221955386&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=122195276504856&size=420x420&format=png
+
+  [Cardinal Weave] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=101623638654811&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=76053598520630&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=99540287134114&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=122857591856055&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=76715706060137&size=420x420&format=png
+
+  [Cobra] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=98732847945986&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=79323907303269&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=107995315309437&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=111124527197279&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=139866349733335&size=420x420&format=png
+
+  [Leopard] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=133362686135410&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=134804555907330&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=104200743749664&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=117944434631319&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=119430070171586&size=420x420&format=png
+
+  [Tuxedo] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131023745601676&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=86517877505575&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=137669113643362&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=86420041101411&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=83798414516379&size=420x420&format=png
+
+  [Snow Leopard] (Special)
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=133957542310311&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=87200446660804&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=85750877087819&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=137423601274473&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=128798096680513&size=420x420&format=png
+
+=== CT Glove ===
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-d5b357b427469c0c885ce9fce6bc7636/420/420/Image/Png/noFilter
-
-  [Monarch] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-381be870dd1df3f7045aeae1aaa5784e/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-49e55d5d062f036592cdd2914f23d815/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-bd38b0eac20d97858e236715d4910f80/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-4e8549cba149223d821220a5698830c3/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-ffa18c5d259a1f744845b06ab4f654c2/420/420/Image/Png/noFilter
-
-  [Vice] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-daa31b1e4237d02b60f52674ea7379c9/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-1c827765294e1d60b60cb38608a9f47f/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-66d984a054f0f655d59d0a80ab9c6f94/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-be4132e206db1ef436bb1358c6fb0cb2/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-0c037f69e70ed29c1769cf7c20f2c4af/420/420/Image/Png/noFilter
-
-  [Timeless] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-b9164ba09f8652342759419b3439dbdb/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-a4bcfec5c088c873ae06b42389bcc234/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-c1d0e1c33d9126058f36d0ac9545a9b6/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-4570b8f83de56610fa86411331159e2b/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-093e3056b9c9db832cd78ceb3d9c76e4/420/420/Image/Png/noFilter
-
-  [Medal.tv] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-2b3bb960ce7ffeea8505aff2143af737/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-043353bbfd1f8ddf010e83f44b5ea75f/420/420/Image/Png/noFilter
-
-=== MP9 ===
-  [High Octane] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-b4f70e3013e67a3101095488ac936825/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-8276a2db4c4e35e175fb0e4070810d88/420/420/Image/Png/noFilter
-
-  [Stock] (Stock)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80128845111227&size=420x420&format=png
-
-  [Anodized Red] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-674b80998e15c0cbb565b3ff57c9e73f/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-e313b00c36453127dfd7788f32dcfc71/420/420/Image/Png/noFilter
-
-  [Canyon] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-dad7a3bce9b7b0596210e9215eceaf72/420/420/Image/Png/noFilter
-    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=124241254951498&size=420x420&format=png
-    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=85795009276906&size=420x420&format=png
-    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=113506652566266&size=420x420&format=png
-    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=83519002143670&size=420x420&format=png
-
-  [Patina] (Purple)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=123681460113782&size=420x420&format=png
-    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=134396101160464&size=420x420&format=png
-    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=119314653875293&size=420x420&format=png
-    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=107689724437182&size=420x420&format=png
-    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133972538887947&size=420x420&format=png
-
-  [Graffiti] (Purple)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115242436485830&size=420x420&format=png
-    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=83647205493307&size=420x420&format=png
-    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=93431762733116&size=420x420&format=png
-    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=128049649185939&size=420x420&format=png
-    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=126621829587889&size=420x420&format=png
-
-  [Classified] (Blue)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=75959435584717&size=420x420&format=png
-    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=117903988950147&size=420x420&format=png
-    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=131279075762144&size=420x420&format=png
-    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=73654671618251&size=420x420&format=png
-    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=133391862829107&size=420x420&format=png
-
-  [Paranoia] (Purple)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=97054421713962&size=420x420&format=png
-    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=140338085368413&size=420x420&format=png
-    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=80871885341987&size=420x420&format=png
-    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=83422068792266&size=420x420&format=png
-    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=124443221193377&size=420x420&format=png
-
-  [X-Ray] (Pink)
-    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128454411389675&size=420x420&format=png
-    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=139134147658636&size=420x420&format=png
-    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=108333685497623&size=420x420&format=png
-    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=129481388435149&size=420x420&format=png
-    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=75971174614785&size=420x420&format=png
-
-  [Choke Oil] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-4c7eb7c9504977b5e5af6c02b5cb3b7d/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-257ec62c2ed870a7f7a67124a6519ecc/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-9b2031155439b804812d06e3e7e1a455/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-42d85b686697ae1ca02e6963bbd8cc30/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-13f9443d5ff6afd983202b70d9adf1fe/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=115310643323427&size=420x420&format=png
 
 === Dual Berettas ===
   [Overclock] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-6deab28da9204aca65da384eb7cb655e/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-d0e56dbcfc77c4373949c33140b10aee/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-fe76a3767ff1dc341332200f17366013/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-49996def674c74bbc9d0063788934124/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-640bab8c8c1367d0b70aaf166fc11cd3/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=122112952414992&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=81480562221054&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=133971755876765&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=139964963389346&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=94933272447696&size=420x420&format=png
 
   [Gilded] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-254c29bd19255de8d1047b088f161de0/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-29b7c3cb8b76a7a4e2395e95441a9ead/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=128596252710922&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=95119674897724&size=420x420&format=png
 
   [Tension] (Purple)
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-d0301c1a548576380c0a74b4f09538de/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-5b837fc4679e977465f41f41e2dffe57/420/420/Image/Png/noFilter
-    Factory New: https://tr.rbxcdn.com/180DAY-e6834cb9789453e75c821bfeb1da1cde/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=81543186662660&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=74272215125949&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=114332654530188&size=420x420&format=png
 
   [Vernal] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-b844428bb0bb279afdec06c83457b3ff/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-f71cf2ad1227c11a582c0d3d220ce598/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-c32ea816545877a31082392ab70e635c/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-28a25dde0591830b9831951b5354baea/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-756ecc1242a38a97c2eb4778273c452f/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=74510397280714&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=79517035042621&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=105123881240303&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=99057274874647&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=130136154162223&size=420x420&format=png
 
   [Choking Hazard] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-8f7f63289d3559d8443c92a25f47daf3/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-df095bc217bc41b0da869d275b196dea/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-3e57a8b3068701612919e80663989ab8/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-1d7472358d46f0e1518abe0fe4b66569/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-aa85cd30d6de8d8cac8ee71e36e58cf6/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=107389695920030&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=80249269723835&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=91373892242900&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=73524449828881&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=112493780976254&size=420x420&format=png
 
   [Inked] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-c8749cefb4f24d2c08863c03527184cb/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-0980202e4fa47be5c1a6dadf436fb646/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-e1023cb15e0167a93a685d60fb45fdeb/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-ebb7cb7e7f88b9192e5cb939dfd09d69/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-e1eb47561354549d49360974c4058c56/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100406553018004&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=122078769361457&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=111458861931317&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132687844595809&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=138689111509001&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-769c577d9630316a4d835b5809d3641e/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=103853751877652&size=420x420&format=png
 
 === Desert Eagle ===
   [High Octane] (Red)
@@ -1817,66 +2112,66 @@
     Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=121788502114090&size=420x420&format=png
 
   [Turbo] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-9234c0fcf6c9495ce236ea1cd736a722/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-de41e79708e0bb306261fbd8f8f0fe43/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-ed3b3bec2fda74455a833b7023a53e59/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-22ee6b8071c9bf1292f2633181c47d74/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-8792f59dd0ac30bbbbca074daae84506/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=138525436277720&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=91131000380274&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=73020685917748&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=124939752545879&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=130855910111012&size=420x420&format=png
 
   [Racer8] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-905fb847c951674a3d922eb8c5b33c32/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-378ca62f447c2e5b88abfb9be146d497/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-d457cbf898b56227de788d7b426714c6/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-d94e1e93184d3372e2dda10f529e5014/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-de316e19fdb59dabdfa7cdbda6530544/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=116218659152633&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=88030511682696&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=139034892559167&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=132398205108563&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=91459374335862&size=420x420&format=png
 
   [Paranoia] (Purple)
-    Factory New: https://tr.rbxcdn.com/180DAY-dbb52643f5fcaf2e0cc39b51ef2e8926/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-1598e6121fa2424aeb007f89af1221a2/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-ca0dd0817f1fefa4b6afa23c91df5aa6/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-a58dc29280738c5f7953e5c5028c165e/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-d5729cd806dbf5a7613805ccffa70415/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=80741450678165&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=119329567910246&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=120560613795487&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=102567392108763&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=111417601166654&size=420x420&format=png
 
   [Punk] (Purple)
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-aeb26e9cc8f9e1493d64c01ef0de95d9/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-988708d952d39e9c6ea0c0d11e2a3ebf/420/420/Image/Png/noFilter
-    Factory New: https://tr.rbxcdn.com/180DAY-164c4d686d4a63ed0b0162032590510d/420/420/Image/Png/noFilter
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=121194958924217&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=105572748103777&size=420x420&format=png
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=98374593739664&size=420x420&format=png
 
 === Galil AR ===
   [Limewire] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-a909b93a43ea04bac33d8a50f501fab0/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-1f622d378751e5e5bffa8f0fbec3674c/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-dc1c093d82f87623074433e6d3d0c570/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-6f86d35717d5edf91a37e1f5dcc4c549/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-2e9fe695853e3f420ccaf8284d4e31fe/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=77282765150348&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=140399130182453&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=137021187123588&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=74848256576067&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=113084065124161&size=420x420&format=png
 
   [Stock] (Stock)
-    Factory New: https://tr.rbxcdn.com/180DAY-8f995478ea3dcfb8a72b1f34128fc07a/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131473149747361&size=420x420&format=png
 
   [Feral] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-6f9e5ef7037d9e4569ae984a0ca28802/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-f46a5103495215ed880aad89b45e98ce/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-372bafa847e9004aee34d7c378dcecdb/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-9f665957129683c45eb8271ecfdd2a81/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-172c69a316a3f378b721990d17591b38/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=100237896129409&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=81855067763163&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=87533300505401&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=89048179881169&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=87350327240481&size=420x420&format=png
 
   [Irid] (Red)
-    Factory New: https://tr.rbxcdn.com/180DAY-0155342f073d5c6e1b0cdd204cca072a/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-763b35f871f83f64fa5415fe377edc27/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-6e9b97acfc09bccc93af79693646d449/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-6b14e89c652e09ff249c2360616c4889/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-f3b93794372623fe11d7b1c3fdf2b710/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=131127067601241&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=129765142102559&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=116327473952558&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=81537317471176&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=86190289293759&size=420x420&format=png
 
   [Monochrome] (Pink)
-    Factory New: https://tr.rbxcdn.com/180DAY-e9a51dfa893dc9608414c3b3d6c61d0c/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-f35a6c9ef3e09a38d692845145cc17ec/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-2da7fa386ffc86781b0df800b1f0df17/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-deacf0d72f92d29695e5daf87e3b6cd7/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-84e6dc8dfd431359c6082f7b4ead2318/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=130738743524733&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=109784567752705&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=137835392773470&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=108975286426149&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=130461083837791&size=420x420&format=png
 
   [Irradiated] (Blue)
-    Factory New: https://tr.rbxcdn.com/180DAY-7b8d817e698ddb9b2345519598799568/420/420/Image/Png/noFilter
-    Battle-Scarred: https://tr.rbxcdn.com/180DAY-e55d706e1b40c83aeb24bf4600192858/420/420/Image/Png/noFilter
-    Minimal Wear: https://tr.rbxcdn.com/180DAY-d7dab3a7bf7ca079b804bab479083049/420/420/Image/Png/noFilter
-    Field-Tested: https://tr.rbxcdn.com/180DAY-89591d7669863581fb8a31275dad12db/420/420/Image/Png/noFilter
-    Well-Worn: https://tr.rbxcdn.com/180DAY-221edafff8474735fe1e00491ed3c0a7/420/420/Image/Png/noFilter
+    Factory New: https://thumbnails.roblox.com/v1/assets?assetIds=106417126259183&size=420x420&format=png
+    Battle-Scarred: https://thumbnails.roblox.com/v1/assets?assetIds=127678180922639&size=420x420&format=png
+    Minimal Wear: https://thumbnails.roblox.com/v1/assets?assetIds=120196999428592&size=420x420&format=png
+    Field-Tested: https://thumbnails.roblox.com/v1/assets?assetIds=77636013813387&size=420x420&format=png
+    Well-Worn: https://thumbnails.roblox.com/v1/assets?assetIds=81028720270846&size=420x420&format=png
